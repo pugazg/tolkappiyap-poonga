@@ -48,11 +48,21 @@
 | 247–250 | 246–249 | மலர் (38) — இருளிலும் ஒளி | [அத்தியாய அட்டவணை](../chapters/039-malar-38-irulilum-oli/README.md) | needs-review |
 | 251–257 | 250–256 | மலர் (39) — காஞ்சித் திணை | [அத்தியாய அட்டவணை](../chapters/040-malar-39-kaanchi-thinai/README.md) | needs-review / illustration verified |
 | 258–263 | 257–262 | மலர் (40) — தமிழ் வழி; தனி வழி | [அத்தியாய அட்டவணை](../chapters/041-malar-40-tamil-vazhi-thani-vazhi/README.md) | needs-review |
-| 264–537 | 263–536 | தொடர்ச்சி — மலர் (41) முதல் | — | not-started |
+| 264–268 | 263–267 | மலர் (41) — ‘தெய்வ மகள்’ அவள் யாரோ? | [அத்தியாய அட்டவணை](../chapters/042-malar-41-deiva-magal-aval-yaaro/README.md) | needs-review / illustration verified |
+| 269–273 | 268–272 | மலர் (42) — விழியாலே மொழி பேசி | [அத்தியாய அட்டவணை](../chapters/043-malar-42-vizhiyaale-mozhi-pesi/README.md) | needs-review / illustration verified |
+| 274–278 | 273–277 | மலர் (43) — காதலால் கசிந்துருகி | [அத்தியாய அட்டவணை](../chapters/044-malar-43-kaathalaal-kasinthurugi/README.md) | needs-review / illustration verified |
+| 279–285 | 278–284 | மலர் (44) — எரிந்தது ஈர விறகு | [அத்தியாய அட்டவணை](../chapters/045-malar-44-erinthathu-eera-viragu/README.md) | needs-review / illustration verified |
+| 286–291 | 285–290 | மலர் (45) — நாணமா? மானமா? | [அத்தியாய அட்டவணை](../chapters/046-malar-45-naanamaa-maanamaa/README.md) | needs-review / illustration verified |
+| 292–296 | 291–295 | மலர் (46) — இருபொருள் - ஒரு விளக்கம்! | [அத்தியாய அட்டவணை](../chapters/047-malar-46-iruporul-oru-vilakkam/README.md) | needs-review / illustration verified |
+| 297–301 | 296–300 | மலர் (47) — கற்பியல் | [அத்தியாய அட்டவணை](../chapters/048-malar-47-karpiyal/README.md) | needs-review / illustration verified |
+| 302–308 | 301–307 | மலர் (48) — அய்யர் யாத்தனர் கரணம் | [அத்தியாய அட்டவணை](../chapters/049-malar-48-ayyar-yaathanar-karanam/README.md) | needs-review / illustration verified |
+| 309–315 | 308–314 | மலர் (49) — களவும் கற்பும் | [அத்தியாய அட்டவணை](../chapters/050-malar-49-kalavum-karpum/README.md) | needs-review / illustration verified |
+| 316–321 | 315–320 | மலர் (50) — குடும்ப விளக்கு | [அத்தியாய அட்டவணை](../chapters/051-malar-50-kudumba-vilakku/README.md) | needs-review / illustration verified |
+| 322–537 | 321–536 | தொடர்ச்சி — மலர் (51) முதல் | — | not-started |
 
 ## பக்க எண் உறவு
 
-ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–263 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
+ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–321 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
 
 ## நிலைக் குறிப்பு
 
