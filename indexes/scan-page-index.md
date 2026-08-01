@@ -28,11 +28,21 @@
 | 135–138 | 134–137 | மலர் (18) — முதல் பொருள் | [அத்தியாய அட்டவணை](../chapters/019-malar-18-muthal-porul/README.md) | needs-review |
 | 139–143 | 138–142 | மலர் (19) — நிலமும் பொழுதும் | [அத்தியாய அட்டவணை](../chapters/020-malar-19-nilamum-pozhuthum/README.md) | needs-review / illustration verified |
 | 144–147 | 143–146 | மலர் (20) — தலைமைத் தகுதி | [அத்தியாய அட்டவணை](../chapters/021-malar-20-thalaimai-thaguthi/README.md) | needs-review / illustration verified |
-| 148–537 | 147–536 | தொடர்ச்சி — மலர் (21) முதல் | — | not-started |
+| 148–150 | 147–149 | மலர் (21) — நிலம் ஆண்ட நேர்த்தி | [அத்தியாய அட்டவணை](../chapters/022-malar-21-nilam-aanda-nerthi/README.md) | needs-review |
+| 151–157 | 150–156 | மலர் (22) — மறப்புக்குப் பரிசு! | [அத்தியாய அட்டவணை](../chapters/023-malar-22-marappukkup-parisu/README.md) | needs-review / illustration verified |
+| 158–162 | 157–161 | மலர் (23) — மகளிர் மடல்! | [அத்தியாய அட்டவணை](../chapters/024-malar-23-magalir-madal/README.md) | needs-review / illustration verified |
+| 163–167 | 162–166 | மலர் (24) — இடையில் ஓர் எளிய விளக்கம்? | [அத்தியாய அட்டவணை](../chapters/025-malar-24-idaiyil-or-eliya-vilakkam/README.md) | needs-review / illustration verified |
+| 168–172 | 167–171 | மலர் (25) — அவள் தானே தாய்! | [அத்தியாய அட்டவணை](../chapters/026-malar-25-aval-thaane-thaai/README.md) | needs-review / illustration verified |
+| 173–177 | 172–176 | மலர் (26) — தோழியின் தொண்டு பெரிதே! | [அத்தியாய அட்டவணை](../chapters/027-malar-26-thozhiyin-thondu-perithe/README.md) | needs-review / illustration verified |
+| 178–185 | 177–184 | மலர் (27) — துன்பத்தில் இன்பம் | [அத்தியாய அட்டவணை](../chapters/028-malar-27-thunbathil-inbam/README.md) | needs-review / illustration verified |
+| 186–190 | 185–189 | மலர் (28) — தலைமகன் நிலைமையும் கடமையும் | [அத்தியாய அட்டவணை](../chapters/029-malar-28-thalaimagan-nilaimaiyum-kadamaiyum/README.md) | needs-review / illustration verified |
+| 191–195 | 190–194 | மலர் (29) — பூம்பொய்கையின் புலம்பல் | [அத்தியாய அட்டவணை](../chapters/030-malar-29-poompoigaiyin-pulambal/README.md) | needs-review / illustration verified |
+| 196–202 | 195–201 | மலர் (30) — மருதநாயகி | [அத்தியாய அட்டவணை](../chapters/031-malar-30-maruthanayagi/README.md) | needs-review / illustration verified |
+| 203–537 | 202–536 | தொடர்ச்சி — மலர் (31) முதல் | — | not-started |
 
 ## பக்க எண் உறவு
 
-ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–147 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
+ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–202 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
 
 ## நிலைக் குறிப்பு
 
