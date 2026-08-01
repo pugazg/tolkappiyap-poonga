@@ -38,11 +38,21 @@
 | 186–190 | 185–189 | மலர் (28) — தலைமகன் நிலைமையும் கடமையும் | [அத்தியாய அட்டவணை](../chapters/029-malar-28-thalaimagan-nilaimaiyum-kadamaiyum/README.md) | needs-review / illustration verified |
 | 191–195 | 190–194 | மலர் (29) — பூம்பொய்கையின் புலம்பல் | [அத்தியாய அட்டவணை](../chapters/030-malar-29-poompoigaiyin-pulambal/README.md) | needs-review / illustration verified |
 | 196–202 | 195–201 | மலர் (30) — மருதநாயகி | [அத்தியாய அட்டவணை](../chapters/031-malar-30-maruthanayagi/README.md) | needs-review / illustration verified |
-| 203–537 | 202–536 | தொடர்ச்சி — மலர் (31) முதல் | — | not-started |
+| 203–206 | 202–205 | மலர் (31) — பெருந்திணை | [அத்தியாய அட்டவணை](../chapters/032-malar-31-perunthinai/README.md) | needs-review / illustration verified |
+| 207–213 | 206–212 | மலர் (32) — மானமும் வீரமும் காத்த மறவர் | [அத்தியாய அட்டவணை](../chapters/033-malar-32-maanamum-veeramum-kaatha-maravar/README.md) | needs-review / illustration verified |
+| 214–218 | 213–217 | மலர் (33) — நடுகல்லானவன் | [அத்தியாய அட்டவணை](../chapters/034-malar-33-nadukallaanavan/README.md) | needs-review / illustration verified |
+| 219–223 | 218–222 | மலர் (34) — வல்லவனுக்கு வல்லவன் | [அத்தியாய அட்டவணை](../chapters/035-malar-34-vallavanukku-vallavan/README.md) | needs-review / illustration verified |
+| 224–230 | 223–229 | மலர் (35) — அந்தப் பொற்காலம் | [அத்தியாய அட்டவணை](../chapters/036-malar-35-antha-porkaalam/README.md) | needs-review / illustration verified |
+| 231–237 | 230–236 | மலர் (36) — எருமை மறம் | [அத்தியாய அட்டவணை](../chapters/037-malar-36-erumai-maram/README.md) | needs-review / illustration verified |
+| 238–246 | 237–245 | மலர் (37) — வாகைத் திணை | [அத்தியாய அட்டவணை](../chapters/038-malar-37-vaagai-thinai/README.md) | needs-review / illustration verified |
+| 247–250 | 246–249 | மலர் (38) — இருளிலும் ஒளி | [அத்தியாய அட்டவணை](../chapters/039-malar-38-irulilum-oli/README.md) | needs-review |
+| 251–257 | 250–256 | மலர் (39) — காஞ்சித் திணை | [அத்தியாய அட்டவணை](../chapters/040-malar-39-kaanchi-thinai/README.md) | needs-review / illustration verified |
+| 258–263 | 257–262 | மலர் (40) — தமிழ் வழி; தனி வழி | [அத்தியாய அட்டவணை](../chapters/041-malar-40-tamil-vazhi-thani-vazhi/README.md) | needs-review |
+| 264–537 | 263–536 | தொடர்ச்சி — மலர் (41) முதல் | — | not-started |
 
 ## பக்க எண் உறவு
 
-ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–202 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
+ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–263 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
 
 ## நிலைக் குறிப்பு
 
