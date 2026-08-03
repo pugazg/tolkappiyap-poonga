@@ -58,11 +58,21 @@
 | 302–308 | 301–307 | மலர் (48) — அய்யர் யாத்தனர் கரணம் | [அத்தியாய அட்டவணை](../chapters/049-malar-48-ayyar-yaathanar-karanam/README.md) | needs-review / illustration verified |
 | 309–315 | 308–314 | மலர் (49) — களவும் கற்பும் | [அத்தியாய அட்டவணை](../chapters/050-malar-49-kalavum-karpum/README.md) | needs-review / illustration verified |
 | 316–321 | 315–320 | மலர் (50) — குடும்ப விளக்கு | [அத்தியாய அட்டவணை](../chapters/051-malar-50-kudumba-vilakku/README.md) | needs-review / illustration verified |
-| 322–537 | 321–536 | தொடர்ச்சி — மலர் (51) முதல் | — | not-started |
+| 322–326 | 321–325 | மலர் (51) — குமரன் தூது | [அத்தியாய அட்டவணை](../chapters/052-malar-51-kumaran-thoothu/README.md) | needs-review / illustration verified |
+| 327–332 | 326–331 | மலர் (52) — ஒரு பெண்ணின் வெற்றி | [அத்தியாய அட்டவணை](../chapters/053-malar-52-oru-pennin-vetri/README.md) | needs-review / illustration verified |
+| 333–335 | 332–334 | மலர் (53) — சுற்றுலா | [அத்தியாய அட்டவணை](../chapters/054-malar-53-sutrula/README.md) | needs-review / illustration verified |
+| 336–338 | 335–337 | மலர் (54) — களத்தில் வீரன் | [அத்தியாய அட்டவணை](../chapters/055-malar-54-kalathil-veeran/README.md) | needs-review / illustration verified |
+| 339–340 | 338–339 | மலர் (55) — போரில் மகளிர் | [அத்தியாய அட்டவணை](../chapters/056-malar-55-poril-magalir/README.md) | needs-review / illustration verified |
+| 341–343 | 340–342 | மலர் (56) — புரவியும் பறவையும் தோற்கும் | [அத்தியாய அட்டவணை](../chapters/057-malar-56-puraviyum-paravaiyum-thorkum/README.md) | needs-review / illustration verified |
+| 344–346 | 343–345 | மலர் (57) — பேறு எது? | [அத்தியாய அட்டவணை](../chapters/058-malar-57-peru-ethu/README.md) | needs-review / illustration verified |
+| 347–350 | 346–349 | மலர் (58) — ஒரு பாற் கூற்று | [அத்தியாய அட்டவணை](../chapters/059-malar-58-oru-paar-kootru/README.md) | needs-review / illustration verified |
+| 351–353 | 350–352 | மலர் (59) — உள்ளம் என்ன உரைத்தது? | [அத்தியாய அட்டவணை](../chapters/060-malar-59-ullam-enna-uraithathu/README.md) | needs-review / illustration verified |
+| 354–358 | 353–357 | மலர் (60) — மகளிர் மாண்பு | [அத்தியாய அட்டவணை](../chapters/061-malar-60-magalir-maanbu/README.md) | needs-review / illustration verified |
+| 359–537 | 358–536 | தொடர்ச்சி — மலர் (61) முதல் | — | not-started |
 
 ## பக்க எண் உறவு
 
-ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–321 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
+ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–358 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
 
 ## நிலைக் குறிப்பு
 
