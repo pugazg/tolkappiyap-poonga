@@ -88,11 +88,21 @@
 | 435–436 | 434–435 | மலர் (78) — வெகுளி நான்கே! | [அத்தியாய அட்டவணை](../chapters/079-malar-78-veguli-naanke/README.md) | needs-review |
 | 437–439 | 436–438 | மலர் (79) — உவகை நான்கு! | [அத்தியாய அட்டவணை](../chapters/080-malar-79-uvagai-naangu/README.md) | needs-review / illustration verified |
 | 440–443 | 439–442 | மலர் (80) — முதல்நிலை மெய்ப்பாடுகள் | [அத்தியாய அட்டவணை](../chapters/081-malar-80-muthalnilai-meyppaadugal/README.md) | needs-review / illustration verified |
-| 444–537 | 443–536 | தொடர்ச்சி — மலர் (81) முதல் | — | not-started |
+| 444–446 | 443–445 | மலர் (81) — இரண்டாம் நிலை மெய்ப்பாடுகள் | [அத்தியாய அட்டவணை](../chapters/082-malar-81-irandaam-nilai-meyppaadugal/README.md) | needs-review / illustration verified |
+| 447–449 | 446–448 | மலர் (82) — மூன்றாம் நிலை மெய்ப்பாடுகள் | [அத்தியாய அட்டவணை](../chapters/083-malar-82-moondraam-nilai-meyppaadugal/README.md) | needs-review / illustration verified |
+| 450–452 | 449–451 | மலர் (83) — நான்காம் நிலை மெய்ப்பாடுகள் | [அத்தியாய அட்டவணை](../chapters/084-malar-83-naankaam-nilai-meyppaadugal/README.md) | needs-review / illustration verified |
+| 453–457 | 452–456 | மலர் (84) — ஐந்தாம் நிலை மெய்ப்பாடுகள் | [அத்தியாய அட்டவணை](../chapters/085-malar-84-ainthaam-nilai-meyppaadugal/README.md) | needs-review / illustration verified |
+| 458–460 | 457–459 | மலர் (85) — ஆறாம் நிலை மெய்ப்பாடுகள் | [அத்தியாய அட்டவணை](../chapters/086-malar-85-aaraam-nilai-meyppaadugal/README.md) | needs-review / illustration verified |
+| 461–465 | 460–464 | மலர் (86) — உவமை அறிவோம்! | [அத்தியாய அட்டவணை](../chapters/087-malar-86-uvamai-arivom/README.md) | needs-review / illustration verified |
+| 466–467 | 465–466 | மலர் (87) — உவமையின் சிறப்பு | [அத்தியாய அட்டவணை](../chapters/088-malar-87-uvamaiyin-sirappu/README.md) | needs-review |
+| 468–472 | 467–471 | மலர் (88) — உவமை நிலைக்களம்! | [அத்தியாய அட்டவணை](../chapters/089-malar-88-uvamai-nilaikkalam/README.md) | needs-review |
+| 473–476 | 472–475 | மலர் (89) — ஐந்தாம் நிலைக்களமிது | [அத்தியாய அட்டவணை](../chapters/090-malar-89-ainthaam-nilaikkalamithu/README.md) | needs-review / illustration verified |
+| 477–479 | 476–478 | மலர் (90) — காக்கையும் மயிலும்! | [அத்தியாய அட்டவணை](../chapters/091-malar-90-kaakkaiyum-mayilum/README.md) | needs-review |
+| 480–537 | 479–536 | தொடர்ச்சி — மலர் (91) முதல் | — | not-started |
 
 ## பக்க எண் உறவு
 
-ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–443 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
+ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–479 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
 
 ## நிலைக் குறிப்பு
 
