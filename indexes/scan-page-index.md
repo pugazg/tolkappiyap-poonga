@@ -68,16 +68,16 @@
 | 347–350 | 346–349 | மலர் (58) — ஒரு பாற் கூற்று | [அத்தியாய அட்டவணை](../chapters/059-malar-58-oru-paar-kootru/README.md) | needs-review / illustration verified |
 | 351–353 | 350–352 | மலர் (59) — உள்ளம் என்ன உரைத்தது? | [அத்தியாய அட்டவணை](../chapters/060-malar-59-ullam-enna-uraithathu/README.md) | needs-review / illustration verified |
 | 354–358 | 353–357 | மலர் (60) — மகளிர் மாண்பு | [அத்தியாய அட்டவணை](../chapters/061-malar-60-magalir-maanbu/README.md) | needs-review / illustration verified |
-| 359–363 | 358–362 | மலர் (61) — நரியை நனையாமல்.. | [அத்தியாய அட்டவணை](../chapters/062-malar-61-nariyai-nanaiyaamal/README.md) | needs-review / illustration verified |
+| 359–363 | 358–362 | மலர் (61) — நரியை நனையாமல்...! | [அத்தியாய அட்டவணை](../chapters/062-malar-61-nariyai-nanaiyaamal/README.md) | needs-review / illustration verified |
 | 364–368 | 363–367 | மலர் (62) — சொல்லுங்கள் கேட்கிறோம்; | [அத்தியாய அட்டவணை](../chapters/063-malar-62-sollungal-ketkirom/README.md) | needs-review |
 | 369–372 | 368–371 | மலர் (63) — நாணம் எனும் உயிர்ப் பண்பு! | [அத்தியாய அட்டவணை](../chapters/064-malar-63-naanam-enum-uyir-panbu/README.md) | needs-review / illustration verified |
 | 373–376 | 372–375 | மலர் (64) — இன்பம் எங்கே? | [அத்தியாய அட்டவணை](../chapters/065-malar-64-inbam-enge/README.md) | needs-review / illustration verified |
-| 377–379 | 376–378 | மலர் (65) — விடை கிடைக்குமா? | [அத்தியாய அட்டவணை](../chapters/066-malar-65-vidai-kidaikkumaa/README.md) | needs-review / illustration verified |
+| 377–379 | 376–378 | மலர் (65) — விடை கிடைக்குமா? | [அத்தியாய அட்டவணை](../chapters/066-malar-65-vidai-kidaikkuma/README.md) | needs-review / illustration verified |
 | 380–383 | 379–382 | மலர் (66) — உயர்வும், பணிவும்! | [அத்தியாய அட்டவணை](../chapters/067-malar-66-uyarvum-panivum/README.md) | needs-review / illustration verified |
 | 384–391 | 383–390 | மலர் (67) — மெய்யன்பர் அறியாத மெய்! | [அத்தியாய அட்டவணை](../chapters/068-malar-67-meyyanbar-ariyaatha-mey/README.md) | needs-review / illustration verified |
 | 392–395 | 391–394 | மலர் (68) — மாறும் மதிப்பு! | [அத்தியாய அட்டவணை](../chapters/069-malar-68-maarum-mathippu/README.md) | needs-review / illustration verified |
 | 396–399 | 395–398 | மலர் (69) — மன உணர்வினால் மட்டுமே! | [அத்தியாய அட்டவணை](../chapters/070-malar-69-mana-unarvinaal-mattume/README.md) | needs-review / illustration verified |
-| 400–402 | 399–401 | மலர் (70) — எட்டுச்சுவை கொண்டும் இயல்! | [அத்தியாய அட்டவணை](../chapters/071-malar-70-ettuchuvai-kondum-iyal/README.md) | needs-review |
+| 400–402 | 399–401 | மலர் (70) — எட்டுச்சுவை கொடும் இயல்! | [அத்தியாய அட்டவணை](../chapters/071-malar-70-ettuchuvai-kondum-iyal/README.md) | needs-review |
 | 403–537 | 402–536 | தொடர்ச்சி — மலர் (71) முதல் | — | not-started |
 
 ## பக்க எண் உறவு
