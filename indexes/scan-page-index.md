@@ -78,11 +78,21 @@
 | 392–395 | 391–394 | மலர் (68) — மாறும் மதிப்பு! | [அத்தியாய அட்டவணை](../chapters/069-malar-68-maarum-mathippu/README.md) | needs-review / illustration verified |
 | 396–399 | 395–398 | மலர் (69) — மன உணர்வினால் மட்டுமே! | [அத்தியாய அட்டவணை](../chapters/070-malar-69-mana-unarvinaal-mattume/README.md) | needs-review / illustration verified |
 | 400–402 | 399–401 | மலர் (70) — எட்டுச்சுவை கொடும் இயல்! | [அத்தியாய அட்டவணை](../chapters/071-malar-70-ettuchuvai-kondum-iyal/README.md) | needs-review |
-| 403–537 | 402–536 | தொடர்ச்சி — மலர் (71) முதல் | — | not-started |
+| 403–406 | 402–405 | மலர் (71) — மெய்ப்பாட்டுக்கு மேலும் விளக்கம் | [அத்தியாய அட்டவணை](../chapters/072-malar-71-meyppaattukku-melum-vilakkam/README.md) | needs-review / illustration verified |
+| 407–412 | 406–411 | மலர் (72) — நகை, நான்கு! | [அத்தியாய அட்டவணை](../chapters/073-malar-72-nagai-naangu/README.md) | needs-review |
+| 413–418 | 412–417 | மலர் (73) — அழுகை, நான்கு! | [அத்தியாய அட்டவணை](../chapters/074-malar-73-azhugai-naangu/README.md) | needs-review |
+| 419–422 | 418–421 | மலர் (74) — இளிவரல், நான்கு! | [அத்தியாய அட்டவணை](../chapters/075-malar-74-ilivaral-naangu/README.md) | needs-review / illustration verified |
+| 423–426 | 422–425 | மலர் (75) — மருட்கை நான்கே! | [அத்தியாய அட்டவணை](../chapters/076-malar-75-marutkai-naanke/README.md) | needs-review |
+| 427–430 | 426–429 | மலர் (76) — அச்சம் நான்கு! | [அத்தியாய அட்டவணை](../chapters/077-malar-76-achcham-naangu/README.md) | needs-review / illustration verified |
+| 431–434 | 430–433 | மலர் (77) — பெருமிதம் நான்கு! | [அத்தியாய அட்டவணை](../chapters/078-malar-77-perumitham-naangu/README.md) | needs-review / illustration verified |
+| 435–436 | 434–435 | மலர் (78) — வெகுளி நான்கே! | [அத்தியாய அட்டவணை](../chapters/079-malar-78-veguli-naanke/README.md) | needs-review |
+| 437–439 | 436–438 | மலர் (79) — உவகை நான்கு! | [அத்தியாய அட்டவணை](../chapters/080-malar-79-uvagai-naangu/README.md) | needs-review / illustration verified |
+| 440–443 | 439–442 | மலர் (80) — முதல்நிலை மெய்ப்பாடுகள் | [அத்தியாய அட்டவணை](../chapters/081-malar-80-muthalnilai-meyppaadugal/README.md) | needs-review / illustration verified |
+| 444–537 | 443–536 | தொடர்ச்சி — மலர் (81) முதல் | — | not-started |
 
 ## பக்க எண் உறவு
 
-ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–402 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
+ஸ்கேன் பக்கம் 10-ல் அச்சுப் பக்கம் 9 தொடங்குகிறது. ஸ்கேன் பக்கங்கள் 10–443 வரை அச்சுப் பக்க எண் பொதுவாக ஸ்கேன் பக்க எண்ணை விட ஒன்று குறைவாக உள்ளது. முழுப்பக்க ஓவியங்களும் அச்சுப் பக்க எண்ணிக்கையில் இடம்பெறுகின்றன.
 
 ## நிலைக் குறிப்பு
 
