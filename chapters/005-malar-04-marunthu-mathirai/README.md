@@ -7,17 +7,19 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 56 / அச்சுப் பக்கம் 55
 - முடிவு: ஸ்கேன் பக்கம் 62 / அச்சுப் பக்கம் 61
 - மொத்தம்: 7 ஸ்கேன் பக்கங்கள்
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- உரைப் பக்கங்கள்: 6 (`verified`)
+- முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 56 / அச்சுப் பக்கம் 55](../../pages/0056-malar-04-marunthu-mathirai-01.md) — `needs-review`
-2. [ஸ்கேன் 57 / அச்சுப் பக்கம் 56](../../pages/0057-malar-04-marunthu-mathirai-02.md) — `needs-review`
+1. [ஸ்கேன் 56 / அச்சுப் பக்கம் 55](../../pages/0056-malar-04-marunthu-mathirai-01.md) — `verified`
+2. [ஸ்கேன் 57 / அச்சுப் பக்கம் 56](../../pages/0057-malar-04-marunthu-mathirai-02.md) — `verified`
 3. [ஸ்கேன் 58 / அச்சுப் பக்கம் 57 — முழுப்பக்க ஓவியம்](../../pages/0058-malar-04-marunthu-mathirai-03.md) — `verified`
-4. [ஸ்கேன் 59 / அச்சுப் பக்கம் 58](../../pages/0059-malar-04-marunthu-mathirai-04.md) — `needs-review`
-5. [ஸ்கேன் 60 / அச்சுப் பக்கம் 59](../../pages/0060-malar-04-marunthu-mathirai-05.md) — `needs-review`
-6. [ஸ்கேன் 61 / அச்சுப் பக்கம் 60](../../pages/0061-malar-04-marunthu-mathirai-06.md) — `needs-review`
-7. [ஸ்கேன் 62 / அச்சுப் பக்கம் 61](../../pages/0062-malar-04-marunthu-mathirai-07.md) — `needs-review`
+4. [ஸ்கேன் 59 / அச்சுப் பக்கம் 58](../../pages/0059-malar-04-marunthu-mathirai-04.md) — `verified`
+5. [ஸ்கேன் 60 / அச்சுப் பக்கம் 59](../../pages/0060-malar-04-marunthu-mathirai-05.md) — `verified`
+6. [ஸ்கேன் 61 / அச்சுப் பக்கம் 60](../../pages/0061-malar-04-marunthu-mathirai-06.md) — `verified`
+7. [ஸ்கேன் 62 / அச்சுப் பக்கம் 61](../../pages/0062-malar-04-marunthu-mathirai-07.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 

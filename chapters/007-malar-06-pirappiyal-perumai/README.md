@@ -7,16 +7,18 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 68 / அச்சுப் பக்கம் 67
 - முடிவு: ஸ்கேன் பக்கம் 73 / அச்சுப் பக்கம் 72
 - மொத்தம்: 6 ஸ்கேன் பக்கங்கள்
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- உரைப் பக்கங்கள்: 5 (`verified`)
+- முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 68 / அச்சுப் பக்கம் 67](../../pages/0068-malar-06-pirappiyal-perumai-01.md) — `needs-review`
-2. [ஸ்கேன் 69 / அச்சுப் பக்கம் 68](../../pages/0069-malar-06-pirappiyal-perumai-02.md) — `needs-review`
+1. [ஸ்கேன் 68 / அச்சுப் பக்கம் 67](../../pages/0068-malar-06-pirappiyal-perumai-01.md) — `verified`
+2. [ஸ்கேன் 69 / அச்சுப் பக்கம் 68](../../pages/0069-malar-06-pirappiyal-perumai-02.md) — `verified`
 3. [ஸ்கேன் 70 / அச்சுப் பக்கம் 69 — முழுப்பக்க ஓவியம்](../../pages/0070-malar-06-pirappiyal-perumai-03.md) — `verified`
-4. [ஸ்கேன் 71 / அச்சுப் பக்கம் 70](../../pages/0071-malar-06-pirappiyal-perumai-04.md) — `needs-review`
-5. [ஸ்கேன் 72 / அச்சுப் பக்கம் 71](../../pages/0072-malar-06-pirappiyal-perumai-05.md) — `needs-review`
-6. [ஸ்கேன் 73 / அச்சுப் பக்கம் 72](../../pages/0073-malar-06-pirappiyal-perumai-06.md) — `needs-review`
+4. [ஸ்கேன் 71 / அச்சுப் பக்கம் 70](../../pages/0071-malar-06-pirappiyal-perumai-04.md) — `verified`
+5. [ஸ்கேன் 72 / அச்சுப் பக்கம் 71](../../pages/0072-malar-06-pirappiyal-perumai-05.md) — `verified`
+6. [ஸ்கேன் 73 / அச்சுப் பக்கம் 72](../../pages/0073-malar-06-pirappiyal-perumai-06.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 
