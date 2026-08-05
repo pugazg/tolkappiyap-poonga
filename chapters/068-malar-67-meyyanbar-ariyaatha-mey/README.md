@@ -7,20 +7,20 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 384 / அச்சுப் பக்கம் 383
 - முடிவு: ஸ்கேன் பக்கம் 391 / அச்சுப் பக்கம் 390
 - மொத்தம்: 8 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 7 (`needs-review`)
+- உரைப் பக்கங்கள்: 7 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 384 / அச்சுப் பக்கம் 383](../../pages/0384-malar-67-meyyanbar-ariyaatha-mey-01.md) — `needs-review`
-2. [ஸ்கேன் 385 / அச்சுப் பக்கம் 384](../../pages/0385-malar-67-meyyanbar-ariyaatha-mey-02.md) — `needs-review`
+1. [ஸ்கேன் 384 / அச்சுப் பக்கம் 383](../../pages/0384-malar-67-meyyanbar-ariyaatha-mey-01.md) — `verified`
+2. [ஸ்கேன் 385 / அச்சுப் பக்கம் 384](../../pages/0385-malar-67-meyyanbar-ariyaatha-mey-02.md) — `verified`
 3. [ஸ்கேன் 386 / அச்சுப் பக்கம் 385 — முழுப்பக்க ஓவியம்](../../pages/0386-malar-67-meyyanbar-ariyaatha-mey-03.md) — `verified`
-4. [ஸ்கேன் 387 / அச்சுப் பக்கம் 386](../../pages/0387-malar-67-meyyanbar-ariyaatha-mey-04.md) — `needs-review`
-5. [ஸ்கேன் 388 / அச்சுப் பக்கம் 387](../../pages/0388-malar-67-meyyanbar-ariyaatha-mey-05.md) — `needs-review`
-6. [ஸ்கேன் 389 / அச்சுப் பக்கம் 388](../../pages/0389-malar-67-meyyanbar-ariyaatha-mey-06.md) — `needs-review`
-7. [ஸ்கேன் 390 / அச்சுப் பக்கம் 389](../../pages/0390-malar-67-meyyanbar-ariyaatha-mey-07.md) — `needs-review`
-8. [ஸ்கேன் 391 / அச்சுப் பக்கம் 390](../../pages/0391-malar-67-meyyanbar-ariyaatha-mey-08.md) — `needs-review`
+4. [ஸ்கேன் 387 / அச்சுப் பக்கம் 386](../../pages/0387-malar-67-meyyanbar-ariyaatha-mey-04.md) — `verified`
+5. [ஸ்கேன் 388 / அச்சுப் பக்கம் 387](../../pages/0388-malar-67-meyyanbar-ariyaatha-mey-05.md) — `verified`
+6. [ஸ்கேன் 389 / அச்சுப் பக்கம் 388](../../pages/0389-malar-67-meyyanbar-ariyaatha-mey-06.md) — `verified`
+7. [ஸ்கேன் 390 / அச்சுப் பக்கம் 389](../../pages/0390-malar-67-meyyanbar-ariyaatha-mey-07.md) — `verified`
+8. [ஸ்கேன் 391 / அச்சுப் பக்கம் 390](../../pages/0391-malar-67-meyyanbar-ariyaatha-mey-08.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 

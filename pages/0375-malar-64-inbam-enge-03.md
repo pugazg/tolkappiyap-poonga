@@ -6,7 +6,8 @@ authority: "பொருளதிகாரம்"
 iyal: "பொருளியல்"
 sutras: "29"
 page_type: "text"
-status: "needs-review"
+status: "verified"
+transcription_method: "direct visual comparison with source scan"
 ---
 
 # மலர் (64) — இன்பம் எங்கே? · தொடர்ச்சி 3
@@ -42,4 +43,4 @@ status: "needs-review"
 
 ★
 
-> **மறுபார்வைக் குறிப்பு:** இந்த உரை ஸ்கேன்-உதவிய முதல் பதிவாகும். மூலப் பக்கத்துடன் எழுத்துக்கு எழுத்து இறுதி ஒப்பீடு செய்யப்பட வேண்டியுள்ளது.
+<!-- மூல ஸ்கேன் பக்கம்: 375; அச்சுப் பக்கம்: 374 -->
