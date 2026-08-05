@@ -7,17 +7,17 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 219 / அச்சுப் பக்கம் 218
 - முடிவு: ஸ்கேன் பக்கம் 223 / அச்சுப் பக்கம் 222
 - மொத்தம்: 5 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 4 (`needs-review`)
+- உரைப் பக்கங்கள்: 4 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 219 / அச்சுப் பக்கம் 218](../../pages/0219-malar-34-vallavanukku-vallavan-01.md) — `needs-review`
+1. [ஸ்கேன் 219 / அச்சுப் பக்கம் 218](../../pages/0219-malar-34-vallavanukku-vallavan-01.md) — `verified`
 2. [ஸ்கேன் 220 / அச்சுப் பக்கம் 219 — முழுப்பக்க ஓவியம்](../../pages/0220-malar-34-vallavanukku-vallavan-02.md) — `verified`
-3. [ஸ்கேன் 221 / அச்சுப் பக்கம் 220](../../pages/0221-malar-34-vallavanukku-vallavan-03.md) — `needs-review`
-4. [ஸ்கேன் 222 / அச்சுப் பக்கம் 221](../../pages/0222-malar-34-vallavanukku-vallavan-04.md) — `needs-review`
-5. [ஸ்கேன் 223 / அச்சுப் பக்கம் 222](../../pages/0223-malar-34-vallavanukku-vallavan-05.md) — `needs-review`
+3. [ஸ்கேன் 221 / அச்சுப் பக்கம் 220](../../pages/0221-malar-34-vallavanukku-vallavan-03.md) — `verified`
+4. [ஸ்கேன் 222 / அச்சுப் பக்கம் 221](../../pages/0222-malar-34-vallavanukku-vallavan-04.md) — `verified`
+5. [ஸ்கேன் 223 / அச்சுப் பக்கம் 222](../../pages/0223-malar-34-vallavanukku-vallavan-05.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 

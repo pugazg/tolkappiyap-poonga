@@ -7,19 +7,19 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 207 / அச்சுப் பக்கம் 206
 - முடிவு: ஸ்கேன் பக்கம் 213 / அச்சுப் பக்கம் 212
 - மொத்தம்: 7 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 6 (`needs-review`)
+- உரைப் பக்கங்கள்: 6 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 207 / அச்சுப் பக்கம் 206](../../pages/0207-malar-32-maanamum-veeramum-kaatha-maravar-01.md) — `needs-review`
+1. [ஸ்கேன் 207 / அச்சுப் பக்கம் 206](../../pages/0207-malar-32-maanamum-veeramum-kaatha-maravar-01.md) — `verified`
 2. [ஸ்கேன் 208 / அச்சுப் பக்கம் 207 — முழுப்பக்க ஓவியம்](../../pages/0208-malar-32-maanamum-veeramum-kaatha-maravar-02.md) — `verified`
-3. [ஸ்கேன் 209 / அச்சுப் பக்கம் 208](../../pages/0209-malar-32-maanamum-veeramum-kaatha-maravar-03.md) — `needs-review`
-4. [ஸ்கேன் 210 / அச்சுப் பக்கம் 209](../../pages/0210-malar-32-maanamum-veeramum-kaatha-maravar-04.md) — `needs-review`
-5. [ஸ்கேன் 211 / அச்சுப் பக்கம் 210](../../pages/0211-malar-32-maanamum-veeramum-kaatha-maravar-05.md) — `needs-review`
-6. [ஸ்கேன் 212 / அச்சுப் பக்கம் 211](../../pages/0212-malar-32-maanamum-veeramum-kaatha-maravar-06.md) — `needs-review`
-7. [ஸ்கேன் 213 / அச்சுப் பக்கம் 212](../../pages/0213-malar-32-maanamum-veeramum-kaatha-maravar-07.md) — `needs-review`
+3. [ஸ்கேன் 209 / அச்சுப் பக்கம் 208](../../pages/0209-malar-32-maanamum-veeramum-kaatha-maravar-03.md) — `verified`
+4. [ஸ்கேன் 210 / அச்சுப் பக்கம் 209](../../pages/0210-malar-32-maanamum-veeramum-kaatha-maravar-04.md) — `verified`
+5. [ஸ்கேன் 211 / அச்சுப் பக்கம் 210](../../pages/0211-malar-32-maanamum-veeramum-kaatha-maravar-05.md) — `verified`
+6. [ஸ்கேன் 212 / அச்சுப் பக்கம் 211](../../pages/0212-malar-32-maanamum-veeramum-kaatha-maravar-06.md) — `verified`
+7. [ஸ்கேன் 213 / அச்சுப் பக்கம் 212](../../pages/0213-malar-32-maanamum-veeramum-kaatha-maravar-07.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 

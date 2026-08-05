@@ -7,19 +7,19 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 224 / அச்சுப் பக்கம் 223
 - முடிவு: ஸ்கேன் பக்கம் 230 / அச்சுப் பக்கம் 229
 - மொத்தம்: 7 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 6 (`needs-review`)
+- உரைப் பக்கங்கள்: 6 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 224 / அச்சுப் பக்கம் 223](../../pages/0224-malar-35-antha-porkaalam-01.md) — `needs-review`
-2. [ஸ்கேன் 225 / அச்சுப் பக்கம் 224](../../pages/0225-malar-35-antha-porkaalam-02.md) — `needs-review`
+1. [ஸ்கேன் 224 / அச்சுப் பக்கம் 223](../../pages/0224-malar-35-antha-porkaalam-01.md) — `verified`
+2. [ஸ்கேன் 225 / அச்சுப் பக்கம் 224](../../pages/0225-malar-35-antha-porkaalam-02.md) — `verified`
 3. [ஸ்கேன் 226 / அச்சுப் பக்கம் 225 — முழுப்பக்க ஓவியம்](../../pages/0226-malar-35-antha-porkaalam-03.md) — `verified`
-4. [ஸ்கேன் 227 / அச்சுப் பக்கம் 226](../../pages/0227-malar-35-antha-porkaalam-04.md) — `needs-review`
-5. [ஸ்கேன் 228 / அச்சுப் பக்கம் 227](../../pages/0228-malar-35-antha-porkaalam-05.md) — `needs-review`
-6. [ஸ்கேன் 229 / அச்சுப் பக்கம் 228](../../pages/0229-malar-35-antha-porkaalam-06.md) — `needs-review`
-7. [ஸ்கேன் 230 / அச்சுப் பக்கம் 229](../../pages/0230-malar-35-antha-porkaalam-07.md) — `needs-review`
+4. [ஸ்கேன் 227 / அச்சுப் பக்கம் 226](../../pages/0227-malar-35-antha-porkaalam-04.md) — `verified`
+5. [ஸ்கேன் 228 / அச்சுப் பக்கம் 227](../../pages/0228-malar-35-antha-porkaalam-05.md) — `verified`
+6. [ஸ்கேன் 229 / அச்சுப் பக்கம் 228](../../pages/0229-malar-35-antha-porkaalam-06.md) — `verified`
+7. [ஸ்கேன் 230 / அச்சுப் பக்கம் 229](../../pages/0230-malar-35-antha-porkaalam-07.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 

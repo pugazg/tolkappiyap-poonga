@@ -7,17 +7,17 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 264 / அச்சுப் பக்கம் 263
 - முடிவு: ஸ்கேன் பக்கம் 268 / அச்சுப் பக்கம் 267
 - மொத்தம்: 5 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 4 (`needs-review`)
+- உரைப் பக்கங்கள்: 4 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 264 / அச்சுப் பக்கம் 263](../../pages/0264-malar-41-deiva-magal-aval-yaaro-01.md) — `needs-review`
-2. [ஸ்கேன் 265 / அச்சுப் பக்கம் 264](../../pages/0265-malar-41-deiva-magal-aval-yaaro-02.md) — `needs-review`
+1. [ஸ்கேன் 264 / அச்சுப் பக்கம் 263](../../pages/0264-malar-41-deiva-magal-aval-yaaro-01.md) — `verified`
+2. [ஸ்கேன் 265 / அச்சுப் பக்கம் 264](../../pages/0265-malar-41-deiva-magal-aval-yaaro-02.md) — `verified`
 3. [ஸ்கேன் 266 / அச்சுப் பக்கம் 265 — முழுப்பக்க ஓவியம்](../../pages/0266-malar-41-deiva-magal-aval-yaaro-03.md) — `verified`
-4. [ஸ்கேன் 267 / அச்சுப் பக்கம் 266](../../pages/0267-malar-41-deiva-magal-aval-yaaro-04.md) — `needs-review`
-5. [ஸ்கேன் 268 / அச்சுப் பக்கம் 267](../../pages/0268-malar-41-deiva-magal-aval-yaaro-05.md) — `needs-review`
+4. [ஸ்கேன் 267 / அச்சுப் பக்கம் 266](../../pages/0267-malar-41-deiva-magal-aval-yaaro-04.md) — `verified`
+5. [ஸ்கேன் 268 / அச்சுப் பக்கம் 267](../../pages/0268-malar-41-deiva-magal-aval-yaaro-05.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 

@@ -7,18 +7,18 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 258 / அச்சுப் பக்கம் 257
 - முடிவு: ஸ்கேன் பக்கம் 263 / அச்சுப் பக்கம் 262
 - மொத்தம்: 6 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 6 (`needs-review`)
+- உரைப் பக்கங்கள்: 6 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 0 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 258 / அச்சுப் பக்கம் 257](../../pages/0258-malar-40-tamil-vazhi-thani-vazhi-01.md) — `needs-review`
-2. [ஸ்கேன் 259 / அச்சுப் பக்கம் 258](../../pages/0259-malar-40-tamil-vazhi-thani-vazhi-02.md) — `needs-review`
-3. [ஸ்கேன் 260 / அச்சுப் பக்கம் 259](../../pages/0260-malar-40-tamil-vazhi-thani-vazhi-03.md) — `needs-review`
-4. [ஸ்கேன் 261 / அச்சுப் பக்கம் 260](../../pages/0261-malar-40-tamil-vazhi-thani-vazhi-04.md) — `needs-review`
-5. [ஸ்கேன் 262 / அச்சுப் பக்கம் 261](../../pages/0262-malar-40-tamil-vazhi-thani-vazhi-05.md) — `needs-review`
-6. [ஸ்கேன் 263 / அச்சுப் பக்கம் 262](../../pages/0263-malar-40-tamil-vazhi-thani-vazhi-06.md) — `needs-review`
+1. [ஸ்கேன் 258 / அச்சுப் பக்கம் 257](../../pages/0258-malar-40-tamil-vazhi-thani-vazhi-01.md) — `verified`
+2. [ஸ்கேன் 259 / அச்சுப் பக்கம் 258](../../pages/0259-malar-40-tamil-vazhi-thani-vazhi-02.md) — `verified`
+3. [ஸ்கேன் 260 / அச்சுப் பக்கம் 259](../../pages/0260-malar-40-tamil-vazhi-thani-vazhi-03.md) — `verified`
+4. [ஸ்கேன் 261 / அச்சுப் பக்கம் 260](../../pages/0261-malar-40-tamil-vazhi-thani-vazhi-04.md) — `verified`
+5. [ஸ்கேன் 262 / அச்சுப் பக்கம் 261](../../pages/0262-malar-40-tamil-vazhi-thani-vazhi-05.md) — `verified`
+6. [ஸ்கேன் 263 / அச்சுப் பக்கம் 262](../../pages/0263-malar-40-tamil-vazhi-thani-vazhi-06.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 
