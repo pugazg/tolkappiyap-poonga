@@ -7,17 +7,17 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 364 / அச்சுப் பக்கம் 363
 - முடிவு: ஸ்கேன் பக்கம் 368 / அச்சுப் பக்கம் 367
 - மொத்தம்: 5 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 5 (`needs-review`)
+- உரைப் பக்கங்கள்: 5 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 0
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 364 / அச்சுப் பக்கம் 363](../../pages/0364-malar-62-sollungal-ketkirom-01.md) — `needs-review`
-2. [ஸ்கேன் 365 / அச்சுப் பக்கம் 364](../../pages/0365-malar-62-sollungal-ketkirom-02.md) — `needs-review`
-3. [ஸ்கேன் 366 / அச்சுப் பக்கம் 365](../../pages/0366-malar-62-sollungal-ketkirom-03.md) — `needs-review`
-4. [ஸ்கேன் 367 / அச்சுப் பக்கம் 366](../../pages/0367-malar-62-sollungal-ketkirom-04.md) — `needs-review`
-5. [ஸ்கேன் 368 / அச்சுப் பக்கம் 367](../../pages/0368-malar-62-sollungal-ketkirom-05.md) — `needs-review`
+1. [ஸ்கேன் 364 / அச்சுப் பக்கம் 363](../../pages/0364-malar-62-sollungal-ketkirom-01.md) — `verified`
+2. [ஸ்கேன் 365 / அச்சுப் பக்கம் 364](../../pages/0365-malar-62-sollungal-ketkirom-02.md) — `verified`
+3. [ஸ்கேன் 366 / அச்சுப் பக்கம் 365](../../pages/0366-malar-62-sollungal-ketkirom-03.md) — `verified`
+4. [ஸ்கேன் 367 / அச்சுப் பக்கம் 366](../../pages/0367-malar-62-sollungal-ketkirom-04.md) — `verified`
+5. [ஸ்கேன் 368 / அச்சுப் பக்கம் 367](../../pages/0368-malar-62-sollungal-ketkirom-05.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 
