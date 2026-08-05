@@ -7,19 +7,19 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 302 / அச்சுப் பக்கம் 301
 - முடிவு: ஸ்கேன் பக்கம் 308 / அச்சுப் பக்கம் 307
 - மொத்தம்: 7 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 6 (`needs-review`)
+- உரைப் பக்கங்கள்: 6 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 302 / அச்சுப் பக்கம் 301](../../pages/0302-malar-48-ayyar-yaathanar-karanam-01.md) — `needs-review`
-2. [ஸ்கேன் 303 / அச்சுப் பக்கம் 302](../../pages/0303-malar-48-ayyar-yaathanar-karanam-02.md) — `needs-review`
+1. [ஸ்கேன் 302 / அச்சுப் பக்கம் 301](../../pages/0302-malar-48-ayyar-yaathanar-karanam-01.md) — `verified`
+2. [ஸ்கேன் 303 / அச்சுப் பக்கம் 302](../../pages/0303-malar-48-ayyar-yaathanar-karanam-02.md) — `verified`
 3. [ஸ்கேன் 304 / அச்சுப் பக்கம் 303 — முழுப்பக்க ஓவியம்](../../pages/0304-malar-48-ayyar-yaathanar-karanam-03.md) — `verified`
-4. [ஸ்கேன் 305 / அச்சுப் பக்கம் 304](../../pages/0305-malar-48-ayyar-yaathanar-karanam-04.md) — `needs-review`
-5. [ஸ்கேன் 306 / அச்சுப் பக்கம் 305](../../pages/0306-malar-48-ayyar-yaathanar-karanam-05.md) — `needs-review`
-6. [ஸ்கேன் 307 / அச்சுப் பக்கம் 306](../../pages/0307-malar-48-ayyar-yaathanar-karanam-06.md) — `needs-review`
-7. [ஸ்கேன் 308 / அச்சுப் பக்கம் 307](../../pages/0308-malar-48-ayyar-yaathanar-karanam-07.md) — `needs-review`
+4. [ஸ்கேன் 305 / அச்சுப் பக்கம் 304](../../pages/0305-malar-48-ayyar-yaathanar-karanam-04.md) — `verified`
+5. [ஸ்கேன் 306 / அச்சுப் பக்கம் 305](../../pages/0306-malar-48-ayyar-yaathanar-karanam-05.md) — `verified`
+6. [ஸ்கேன் 307 / அச்சுப் பக்கம் 306](../../pages/0307-malar-48-ayyar-yaathanar-karanam-06.md) — `verified`
+7. [ஸ்கேன் 308 / அச்சுப் பக்கம் 307](../../pages/0308-malar-48-ayyar-yaathanar-karanam-07.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 

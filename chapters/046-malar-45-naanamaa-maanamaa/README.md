@@ -7,18 +7,18 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 286 / அச்சுப் பக்கம் 285
 - முடிவு: ஸ்கேன் பக்கம் 291 / அச்சுப் பக்கம் 290
 - மொத்தம்: 6 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 5 (`needs-review`)
+- உரைப் பக்கங்கள்: 5 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 286 / அச்சுப் பக்கம் 285](../../pages/0286-malar-45-naanamaa-maanamaa-01.md) — `needs-review`
-2. [ஸ்கேன் 287 / அச்சுப் பக்கம் 286](../../pages/0287-malar-45-naanamaa-maanamaa-02.md) — `needs-review`
+1. [ஸ்கேன் 286 / அச்சுப் பக்கம் 285](../../pages/0286-malar-45-naanamaa-maanamaa-01.md) — `verified`
+2. [ஸ்கேன் 287 / அச்சுப் பக்கம் 286](../../pages/0287-malar-45-naanamaa-maanamaa-02.md) — `verified`
 3. [ஸ்கேன் 288 / அச்சுப் பக்கம் 287 — முழுப்பக்க ஓவியம்](../../pages/0288-malar-45-naanamaa-maanamaa-03.md) — `verified`
-4. [ஸ்கேன் 289 / அச்சுப் பக்கம் 288](../../pages/0289-malar-45-naanamaa-maanamaa-04.md) — `needs-review`
-5. [ஸ்கேன் 290 / அச்சுப் பக்கம் 289](../../pages/0290-malar-45-naanamaa-maanamaa-05.md) — `needs-review`
-6. [ஸ்கேன் 291 / அச்சுப் பக்கம் 290](../../pages/0291-malar-45-naanamaa-maanamaa-06.md) — `needs-review`
+4. [ஸ்கேன் 289 / அச்சுப் பக்கம் 288](../../pages/0289-malar-45-naanamaa-maanamaa-04.md) — `verified`
+5. [ஸ்கேன் 290 / அச்சுப் பக்கம் 289](../../pages/0290-malar-45-naanamaa-maanamaa-05.md) — `verified`
+6. [ஸ்கேன் 291 / அச்சுப் பக்கம் 290](../../pages/0291-malar-45-naanamaa-maanamaa-06.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 
