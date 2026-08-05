@@ -7,17 +7,17 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 292 / அச்சுப் பக்கம் 291
 - முடிவு: ஸ்கேன் பக்கம் 296 / அச்சுப் பக்கம் 295
 - மொத்தம்: 5 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 4 (`needs-review`)
+- உரைப் பக்கங்கள்: 4 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 292 / அச்சுப் பக்கம் 291](../../pages/0292-malar-46-iruporul-oru-vilakkam-01.md) — `needs-review`
-2. [ஸ்கேன் 293 / அச்சுப் பக்கம் 292](../../pages/0293-malar-46-iruporul-oru-vilakkam-02.md) — `needs-review`
+1. [ஸ்கேன் 292 / அச்சுப் பக்கம் 291](../../pages/0292-malar-46-iruporul-oru-vilakkam-01.md) — `verified`
+2. [ஸ்கேன் 293 / அச்சுப் பக்கம் 292](../../pages/0293-malar-46-iruporul-oru-vilakkam-02.md) — `verified`
 3. [ஸ்கேன் 294 / அச்சுப் பக்கம் 293 — முழுப்பக்க ஓவியம்](../../pages/0294-malar-46-iruporul-oru-vilakkam-03.md) — `verified`
-4. [ஸ்கேன் 295 / அச்சுப் பக்கம் 294](../../pages/0295-malar-46-iruporul-oru-vilakkam-04.md) — `needs-review`
-5. [ஸ்கேன் 296 / அச்சுப் பக்கம் 295](../../pages/0296-malar-46-iruporul-oru-vilakkam-05.md) — `needs-review`
+4. [ஸ்கேன் 295 / அச்சுப் பக்கம் 294](../../pages/0295-malar-46-iruporul-oru-vilakkam-04.md) — `verified`
+5. [ஸ்கேன் 296 / அச்சுப் பக்கம் 295](../../pages/0296-malar-46-iruporul-oru-vilakkam-05.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 

@@ -7,19 +7,19 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 279 / அச்சுப் பக்கம் 278
 - முடிவு: ஸ்கேன் பக்கம் 285 / அச்சுப் பக்கம் 284
 - மொத்தம்: 7 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 6 (`needs-review`)
+- உரைப் பக்கங்கள்: 6 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 279 / அச்சுப் பக்கம் 278](../../pages/0279-malar-44-erinthathu-eera-viragu-01.md) — `needs-review`
+1. [ஸ்கேன் 279 / அச்சுப் பக்கம் 278](../../pages/0279-malar-44-erinthathu-eera-viragu-01.md) — `verified`
 2. [ஸ்கேன் 280 / அச்சுப் பக்கம் 279 — முழுப்பக்க ஓவியம்](../../pages/0280-malar-44-erinthathu-eera-viragu-02.md) — `verified`
-3. [ஸ்கேன் 281 / அச்சுப் பக்கம் 280](../../pages/0281-malar-44-erinthathu-eera-viragu-03.md) — `needs-review`
-4. [ஸ்கேன் 282 / அச்சுப் பக்கம் 281](../../pages/0282-malar-44-erinthathu-eera-viragu-04.md) — `needs-review`
-5. [ஸ்கேன் 283 / அச்சுப் பக்கம் 282](../../pages/0283-malar-44-erinthathu-eera-viragu-05.md) — `needs-review`
-6. [ஸ்கேன் 284 / அச்சுப் பக்கம் 283](../../pages/0284-malar-44-erinthathu-eera-viragu-06.md) — `needs-review`
-7. [ஸ்கேன் 285 / அச்சுப் பக்கம் 284](../../pages/0285-malar-44-erinthathu-eera-viragu-07.md) — `needs-review`
+3. [ஸ்கேன் 281 / அச்சுப் பக்கம் 280](../../pages/0281-malar-44-erinthathu-eera-viragu-03.md) — `verified`
+4. [ஸ்கேன் 282 / அச்சுப் பக்கம் 281](../../pages/0282-malar-44-erinthathu-eera-viragu-04.md) — `verified`
+5. [ஸ்கேன் 283 / அச்சுப் பக்கம் 282](../../pages/0283-malar-44-erinthathu-eera-viragu-05.md) — `verified`
+6. [ஸ்கேன் 284 / அச்சுப் பக்கம் 283](../../pages/0284-malar-44-erinthathu-eera-viragu-06.md) — `verified`
+7. [ஸ்கேன் 285 / அச்சுப் பக்கம் 284](../../pages/0285-malar-44-erinthathu-eera-viragu-07.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 
