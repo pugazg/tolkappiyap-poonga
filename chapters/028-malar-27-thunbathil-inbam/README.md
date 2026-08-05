@@ -7,20 +7,20 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 178 / அச்சுப் பக்கம் 177
 - முடிவு: ஸ்கேன் பக்கம் 185 / அச்சுப் பக்கம் 184
 - மொத்தம்: 8 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 7 (`needs-review`)
+- உரைப் பக்கங்கள்: 7 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 178 / அச்சுப் பக்கம் 177](../../pages/0178-malar-27-thunbathil-inbam-01.md) — `needs-review`
-2. [ஸ்கேன் 179 / அச்சுப் பக்கம் 178](../../pages/0179-malar-27-thunbathil-inbam-02.md) — `needs-review`
+1. [ஸ்கேன் 178 / அச்சுப் பக்கம் 177](../../pages/0178-malar-27-thunbathil-inbam-01.md) — `verified`
+2. [ஸ்கேன் 179 / அச்சுப் பக்கம் 178](../../pages/0179-malar-27-thunbathil-inbam-02.md) — `verified`
 3. [ஸ்கேன் 180 / அச்சுப் பக்கம் 179 — முழுப்பக்க ஓவியம்](../../pages/0180-malar-27-thunbathil-inbam-03.md) — `verified`
-4. [ஸ்கேன் 181 / அச்சுப் பக்கம் 180](../../pages/0181-malar-27-thunbathil-inbam-04.md) — `needs-review`
-5. [ஸ்கேன் 182 / அச்சுப் பக்கம் 181](../../pages/0182-malar-27-thunbathil-inbam-05.md) — `needs-review`
-6. [ஸ்கேன் 183 / அச்சுப் பக்கம் 182](../../pages/0183-malar-27-thunbathil-inbam-06.md) — `needs-review`
-7. [ஸ்கேன் 184 / அச்சுப் பக்கம் 183](../../pages/0184-malar-27-thunbathil-inbam-07.md) — `needs-review`
-8. [ஸ்கேன் 185 / அச்சுப் பக்கம் 184](../../pages/0185-malar-27-thunbathil-inbam-08.md) — `needs-review`
+4. [ஸ்கேன் 181 / அச்சுப் பக்கம் 180](../../pages/0181-malar-27-thunbathil-inbam-04.md) — `verified`
+5. [ஸ்கேன் 182 / அச்சுப் பக்கம் 181](../../pages/0182-malar-27-thunbathil-inbam-05.md) — `verified`
+6. [ஸ்கேன் 183 / அச்சுப் பக்கம் 182](../../pages/0183-malar-27-thunbathil-inbam-06.md) — `verified`
+7. [ஸ்கேன் 184 / அச்சுப் பக்கம் 183](../../pages/0184-malar-27-thunbathil-inbam-07.md) — `verified`
+8. [ஸ்கேன் 185 / அச்சுப் பக்கம் 184](../../pages/0185-malar-27-thunbathil-inbam-08.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 

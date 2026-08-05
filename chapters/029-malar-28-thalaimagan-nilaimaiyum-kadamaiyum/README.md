@@ -7,17 +7,17 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 186 / அச்சுப் பக்கம் 185
 - முடிவு: ஸ்கேன் பக்கம் 190 / அச்சுப் பக்கம் 189
 - மொத்தம்: 5 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 4 (`needs-review`)
+- உரைப் பக்கங்கள்: 4 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 186 / அச்சுப் பக்கம் 185](../../pages/0186-malar-28-thalaimagan-nilaimaiyum-kadamaiyum-01.md) — `needs-review`
-2. [ஸ்கேன் 187 / அச்சுப் பக்கம் 186](../../pages/0187-malar-28-thalaimagan-nilaimaiyum-kadamaiyum-02.md) — `needs-review`
+1. [ஸ்கேன் 186 / அச்சுப் பக்கம் 185](../../pages/0186-malar-28-thalaimagan-nilaimaiyum-kadamaiyum-01.md) — `verified`
+2. [ஸ்கேன் 187 / அச்சுப் பக்கம் 186](../../pages/0187-malar-28-thalaimagan-nilaimaiyum-kadamaiyum-02.md) — `verified`
 3. [ஸ்கேன் 188 / அச்சுப் பக்கம் 187 — முழுப்பக்க ஓவியம்](../../pages/0188-malar-28-thalaimagan-nilaimaiyum-kadamaiyum-03.md) — `verified`
-4. [ஸ்கேன் 189 / அச்சுப் பக்கம் 188](../../pages/0189-malar-28-thalaimagan-nilaimaiyum-kadamaiyum-04.md) — `needs-review`
-5. [ஸ்கேன் 190 / அச்சுப் பக்கம் 189](../../pages/0190-malar-28-thalaimagan-nilaimaiyum-kadamaiyum-05.md) — `needs-review`
+4. [ஸ்கேன் 189 / அச்சுப் பக்கம் 188](../../pages/0189-malar-28-thalaimagan-nilaimaiyum-kadamaiyum-04.md) — `verified`
+5. [ஸ்கேன் 190 / அச்சுப் பக்கம் 189](../../pages/0190-malar-28-thalaimagan-nilaimaiyum-kadamaiyum-05.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 

@@ -7,19 +7,19 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 196 / அச்சுப் பக்கம் 195
 - முடிவு: ஸ்கேன் பக்கம் 202 / அச்சுப் பக்கம் 201
 - மொத்தம்: 7 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 6 (`needs-review`)
+- உரைப் பக்கங்கள்: 6 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 196 / அச்சுப் பக்கம் 195](../../pages/0196-malar-30-maruthanayagi-01.md) — `needs-review`
-2. [ஸ்கேன் 197 / அச்சுப் பக்கம் 196](../../pages/0197-malar-30-maruthanayagi-02.md) — `needs-review`
+1. [ஸ்கேன் 196 / அச்சுப் பக்கம் 195](../../pages/0196-malar-30-maruthanayagi-01.md) — `verified`
+2. [ஸ்கேன் 197 / அச்சுப் பக்கம் 196](../../pages/0197-malar-30-maruthanayagi-02.md) — `verified`
 3. [ஸ்கேன் 198 / அச்சுப் பக்கம் 197 — முழுப்பக்க ஓவியம்](../../pages/0198-malar-30-maruthanayagi-03.md) — `verified`
-4. [ஸ்கேன் 199 / அச்சுப் பக்கம் 198](../../pages/0199-malar-30-maruthanayagi-04.md) — `needs-review`
-5. [ஸ்கேன் 200 / அச்சுப் பக்கம் 199](../../pages/0200-malar-30-maruthanayagi-05.md) — `needs-review`
-6. [ஸ்கேன் 201 / அச்சுப் பக்கம் 200](../../pages/0201-malar-30-maruthanayagi-06.md) — `needs-review`
-7. [ஸ்கேன் 202 / அச்சுப் பக்கம் 201](../../pages/0202-malar-30-maruthanayagi-07.md) — `needs-review`
+4. [ஸ்கேன் 199 / அச்சுப் பக்கம் 198](../../pages/0199-malar-30-maruthanayagi-04.md) — `verified`
+5. [ஸ்கேன் 200 / அச்சுப் பக்கம் 199](../../pages/0200-malar-30-maruthanayagi-05.md) — `verified`
+6. [ஸ்கேன் 201 / அச்சுப் பக்கம் 200](../../pages/0201-malar-30-maruthanayagi-06.md) — `verified`
+7. [ஸ்கேன் 202 / அச்சுப் பக்கம் 201](../../pages/0202-malar-30-maruthanayagi-07.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 
