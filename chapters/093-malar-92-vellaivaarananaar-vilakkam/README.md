@@ -7,19 +7,19 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 483 / அச்சுப் பக்கம் 482
 - முடிவு: ஸ்கேன் பக்கம் 489 / அச்சுப் பக்கம் 488
 - மொத்தம்: 7 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 6 (`needs-review`)
-- முழுப்பக்க ஓவியங்கள் / புகைப்படங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- உரைப் பக்கங்கள்: 6 (`verified`)
+- முழுப்பக்க ஓவியம் / புகைப்படம்: 1 (`verified`)
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 483 / அச்சுப் பக்கம் 482](../../pages/0483-malar-92-vellaivaarananaar-vilakkam-01.md) — `needs-review`
+1. [ஸ்கேன் 483 / அச்சுப் பக்கம் 482](../../pages/0483-malar-92-vellaivaarananaar-vilakkam-01.md) — `verified`
 2. [ஸ்கேன் 484 / அச்சுப் பக்கம் 483 — முழுப்பக்க ஓவியம் / புகைப்படம்](../../pages/0484-malar-92-vellaivaarananaar-vilakkam-02.md) — `verified`
-3. [ஸ்கேன் 485 / அச்சுப் பக்கம் 484](../../pages/0485-malar-92-vellaivaarananaar-vilakkam-03.md) — `needs-review`
-4. [ஸ்கேன் 486 / அச்சுப் பக்கம் 485](../../pages/0486-malar-92-vellaivaarananaar-vilakkam-04.md) — `needs-review`
-5. [ஸ்கேன் 487 / அச்சுப் பக்கம் 486](../../pages/0487-malar-92-vellaivaarananaar-vilakkam-05.md) — `needs-review`
-6. [ஸ்கேன் 488 / அச்சுப் பக்கம் 487](../../pages/0488-malar-92-vellaivaarananaar-vilakkam-06.md) — `needs-review`
-7. [ஸ்கேன் 489 / அச்சுப் பக்கம் 488](../../pages/0489-malar-92-vellaivaarananaar-vilakkam-07.md) — `needs-review`
+3. [ஸ்கேன் 485 / அச்சுப் பக்கம் 484](../../pages/0485-malar-92-vellaivaarananaar-vilakkam-03.md) — `verified`
+4. [ஸ்கேன் 486 / அச்சுப் பக்கம் 485](../../pages/0486-malar-92-vellaivaarananaar-vilakkam-04.md) — `verified`
+5. [ஸ்கேன் 487 / அச்சுப் பக்கம் 486](../../pages/0487-malar-92-vellaivaarananaar-vilakkam-05.md) — `verified`
+6. [ஸ்கேன் 488 / அச்சுப் பக்கம் 487](../../pages/0488-malar-92-vellaivaarananaar-vilakkam-06.md) — `verified`
+7. [ஸ்கேன் 489 / அச்சுப் பக்கம் 488](../../pages/0489-malar-92-vellaivaarananaar-vilakkam-07.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 
