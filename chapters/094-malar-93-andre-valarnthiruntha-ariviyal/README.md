@@ -7,16 +7,16 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 490 / அச்சுப் பக்கம் 489
 - முடிவு: ஸ்கேன் பக்கம் 493 / அச்சுப் பக்கம் 492
 - மொத்தம்: 4 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 4 (`needs-review`)
+- உரைப் பக்கங்கள்: 4 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 0
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 490 / அச்சுப் பக்கம் 489](../../pages/0490-malar-93-andre-valarnthiruntha-ariviyal-01.md) — `needs-review`
-2. [ஸ்கேன் 491 / அச்சுப் பக்கம் 490](../../pages/0491-malar-93-andre-valarnthiruntha-ariviyal-02.md) — `needs-review`
-3. [ஸ்கேன் 492 / அச்சுப் பக்கம் 491](../../pages/0492-malar-93-andre-valarnthiruntha-ariviyal-03.md) — `needs-review`
-4. [ஸ்கேன் 493 / அச்சுப் பக்கம் 492](../../pages/0493-malar-93-andre-valarnthiruntha-ariviyal-04.md) — `needs-review`
+1. [ஸ்கேன் 490 / அச்சுப் பக்கம் 489](../../pages/0490-malar-93-andre-valarnthiruntha-ariviyal-01.md) — `verified`
+2. [ஸ்கேன் 491 / அச்சுப் பக்கம் 490](../../pages/0491-malar-93-andre-valarnthiruntha-ariviyal-02.md) — `verified`
+3. [ஸ்கேன் 492 / அச்சுப் பக்கம் 491](../../pages/0492-malar-93-andre-valarnthiruntha-ariviyal-03.md) — `verified`
+4. [ஸ்கேன் 493 / அச்சுப் பக்கம் 492](../../pages/0493-malar-93-andre-valarnthiruntha-ariviyal-04.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 

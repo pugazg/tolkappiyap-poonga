@@ -7,17 +7,17 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 453 / அச்சுப் பக்கம் 452
 - முடிவு: ஸ்கேன் பக்கம் 457 / அச்சுப் பக்கம் 456
 - மொத்தம்: 5 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 4 (`needs-review`)
+- உரைப் பக்கங்கள்: 4 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 453 / அச்சுப் பக்கம் 452](../../pages/0453-malar-84-ainthaam-nilai-meyppaadugal-01.md) — `needs-review`
-2. [ஸ்கேன் 454 / அச்சுப் பக்கம் 453](../../pages/0454-malar-84-ainthaam-nilai-meyppaadugal-02.md) — `needs-review`
-3. [ஸ்கேன் 455 / அச்சுப் பக்கம் 454](../../pages/0455-malar-84-ainthaam-nilai-meyppaadugal-03.md) — `needs-review`
+1. [ஸ்கேன் 453 / அச்சுப் பக்கம் 452](../../pages/0453-malar-84-ainthaam-nilai-meyppaadugal-01.md) — `verified`
+2. [ஸ்கேன் 454 / அச்சுப் பக்கம் 453](../../pages/0454-malar-84-ainthaam-nilai-meyppaadugal-02.md) — `verified`
+3. [ஸ்கேன் 455 / அச்சுப் பக்கம் 454](../../pages/0455-malar-84-ainthaam-nilai-meyppaadugal-03.md) — `verified`
 4. [ஸ்கேன் 456 / அச்சுப் பக்கம் 455 — முழுப்பக்க ஓவியம்](../../pages/0456-malar-84-ainthaam-nilai-meyppaadugal-04.md) — `verified`
-5. [ஸ்கேன் 457 / அச்சுப் பக்கம் 456](../../pages/0457-malar-84-ainthaam-nilai-meyppaadugal-05.md) — `needs-review`
+5. [ஸ்கேன் 457 / அச்சுப் பக்கம் 456](../../pages/0457-malar-84-ainthaam-nilai-meyppaadugal-05.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 
