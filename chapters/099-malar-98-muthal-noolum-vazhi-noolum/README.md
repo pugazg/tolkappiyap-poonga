@@ -7,18 +7,18 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 513 / அச்சுப் பக்கம் 512
 - முடிவு: ஸ்கேன் பக்கம் 518 / அச்சுப் பக்கம் 517
 - மொத்தம்: 6 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 6 (`needs-review`)
+- உரைப் பக்கங்கள்: 6 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 0
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 513 / அச்சுப் பக்கம் 512](../../pages/0513-malar-98-muthal-noolum-vazhi-noolum-01.md) — `needs-review`
-2. [ஸ்கேன் 514 / அச்சுப் பக்கம் 513](../../pages/0514-malar-98-muthal-noolum-vazhi-noolum-02.md) — `needs-review`
-3. [ஸ்கேன் 515 / அச்சுப் பக்கம் 514](../../pages/0515-malar-98-muthal-noolum-vazhi-noolum-03.md) — `needs-review`
-4. [ஸ்கேன் 516 / அச்சுப் பக்கம் 515](../../pages/0516-malar-98-muthal-noolum-vazhi-noolum-04.md) — `needs-review`
-5. [ஸ்கேன் 517 / அச்சுப் பக்கம் 516](../../pages/0517-malar-98-muthal-noolum-vazhi-noolum-05.md) — `needs-review`
-6. [ஸ்கேன் 518 / அச்சுப் பக்கம் 517](../../pages/0518-malar-98-muthal-noolum-vazhi-noolum-06.md) — `needs-review`
+1. [ஸ்கேன் 513 / அச்சுப் பக்கம் 512](../../pages/0513-malar-98-muthal-noolum-vazhi-noolum-01.md) — `verified`
+2. [ஸ்கேன் 514 / அச்சுப் பக்கம் 513](../../pages/0514-malar-98-muthal-noolum-vazhi-noolum-02.md) — `verified`
+3. [ஸ்கேன் 515 / அச்சுப் பக்கம் 514](../../pages/0515-malar-98-muthal-noolum-vazhi-noolum-03.md) — `verified`
+4. [ஸ்கேன் 516 / அச்சுப் பக்கம் 515](../../pages/0516-malar-98-muthal-noolum-vazhi-noolum-04.md) — `verified`
+5. [ஸ்கேன் 517 / அச்சுப் பக்கம் 516](../../pages/0517-malar-98-muthal-noolum-vazhi-noolum-05.md) — `verified`
+6. [ஸ்கேன் 518 / அச்சுப் பக்கம் 517](../../pages/0518-malar-98-muthal-noolum-vazhi-noolum-06.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 
