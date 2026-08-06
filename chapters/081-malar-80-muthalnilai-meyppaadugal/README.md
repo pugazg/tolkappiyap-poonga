@@ -7,16 +7,16 @@
 - தொடக்கம்: ஸ்கேன் பக்கம் 440 / அச்சுப் பக்கம் 439
 - முடிவு: ஸ்கேன் பக்கம் 443 / அச்சுப் பக்கம் 442
 - மொத்தம்: 4 ஸ்கேன் பக்கங்கள்
-- உரைப் பக்கங்கள்: 3 (`needs-review`)
+- உரைப் பக்கங்கள்: 3 (`verified`)
 - முழுப்பக்க ஓவியங்கள்: 1 (`verified`)
-- நிலை: பக்கவாரி முதல் பதிவு முடிந்தது; உரைப் பக்கங்கள் இறுதி எழுத்து-ஒப்பீட்டுக்காக `needs-review` எனக் குறிக்கப்பட்டுள்ளன
+- நிலை: மூல ஸ்கேனுடன் இறுதி எழுத்து-ஒப்பீடு முடிந்தது
 
 ## பக்கங்கள்
 
-1. [ஸ்கேன் 440 / அச்சுப் பக்கம் 439](../../pages/0440-malar-80-muthalnilai-meyppaadugal-01.md) — `needs-review`
-2. [ஸ்கேன் 441 / அச்சுப் பக்கம் 440](../../pages/0441-malar-80-muthalnilai-meyppaadugal-02.md) — `needs-review`
+1. [ஸ்கேன் 440 / அச்சுப் பக்கம் 439](../../pages/0440-malar-80-muthalnilai-meyppaadugal-01.md) — `verified`
+2. [ஸ்கேன் 441 / அச்சுப் பக்கம் 440](../../pages/0441-malar-80-muthalnilai-meyppaadugal-02.md) — `verified`
 3. [ஸ்கேன் 442 / அச்சுப் பக்கம் 441 — முழுப்பக்க ஓவியம்](../../pages/0442-malar-80-muthalnilai-meyppaadugal-03.md) — `verified`
-4. [ஸ்கேன் 443 / அச்சுப் பக்கம் 442](../../pages/0443-malar-80-muthalnilai-meyppaadugal-04.md) — `needs-review`
+4. [ஸ்கேன் 443 / அச்சுப் பக்கம் 442](../../pages/0443-malar-80-muthalnilai-meyppaadugal-04.md) — `verified`
 
 ## பகுதியின் அமைப்பு
 
