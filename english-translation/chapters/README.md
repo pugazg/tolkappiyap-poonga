@@ -84,9 +84,19 @@ This relation is used only to plan batches. Every boundary must be confirmed vis
 68. [Blossom 68 — Semantic Shift](068-blossom-68-semantic-shift/README.md) — scans 207–208
 69. [Blossom 69 — Only through Mind’s Perception](069-blossom-69-only-through-minds-perception/README.md) — scans 209–210
 70. [Blossom 70 — The Eight Emotions](070-blossom-70-the-eight-emotions/README.md) — scans 211–212
+71. [Blossom 71 — Manifest Emotions Explained Further](071-blossom-71-manifest-emotions-explained-further/README.md) — scans 213–214
+72. [Blossom 72 — Four Sources of Laughter](072-blossom-72-four-sources-of-laughter/README.md) — scans 215–217
+73. [Blossom 73 — Four Sources of Grief](073-blossom-73-four-sources-of-grief/README.md) — scans 218–220
+74. [Blossom 74 — Four Sources of Disgust](074-blossom-74-four-sources-of-disgust/README.md) — scans 221–222
+75. [Blossom 75 — Four Sources of Wonder](075-blossom-75-four-sources-of-wonder/README.md) — scans 223–224
+76. [Blossom 76 — Four Sources of Fear](076-blossom-76-four-sources-of-fear/README.md) — scans 225–226
+77. [Blossom 77 — Four Sources of Pride](077-blossom-77-four-sources-of-pride/README.md) — scans 227–228
+78. [Blossom 78 — Four Sources of Anger](078-blossom-78-four-sources-of-anger/README.md) — scan 229
+79. [Blossom 79 — Four Sources of Happiness](079-blossom-79-four-sources-of-happiness/README.md) — scans 230–231
+80. [Blossom 80 — Fivefold Akam Love: The First Stage of Physical Manifestations](080-blossom-80-fivefold-akam-love-the-first-stage-of-physical-manifestations/README.md) — scans 232–233
 
 ## Status
 
-- Blossoms transcribed: **70 / 100**
-- Next blossom: **71 — Manifest Emotions Explained Further**
-- Expected scans: **213–214**
+- Blossoms transcribed: **80 / 100**
+- Next blossom: **81 — Fivefold Akam Love: The Second Stage of Physical Manifestations**
+- Expected scans: **234–235**

@@ -10,32 +10,17 @@
 
 ## Current state
 
-- Scan pages **1–212**: transcribed and visually verified.
+- Scan pages **1–233**: transcribed and visually verified.
 - Complete five-page printed contents index: captured.
 - 100 blossom titles and printed starting pages: indexed.
 - Introduction: scans **16–20**, verified.
 - Preface: scans **22–25**, verified.
 - “Verses of Tolkāppiyam Explicated and/or Illustrated”: scans **26–29**, verified.
 - Transliteration Key: scan **30**, verified.
-- Body transcription: **Blossoms 1–70**, scans **31–212**, verified.
-- Blossoms completed: **70 / 100**.
+- Body transcription: **Blossoms 1–80**, scans **31–233**, verified.
+- Blossoms completed: **80 / 100**.
 
 ## Completed body batch
-
-- Blossom 61 — Without the Fox Getting Drenched...! — scans 191–193
-- Blossom 62 — Do Speak, We would Listen... — scans 194–196
-- Blossom 63 — Modesty Dear as Life — scans 197–198
-- Blossom 64 — Where is Happiness? — scan 199
-- Blossom 65 — Would the Answer Emerge? — scans 200–201
-- Blossom 66 — Greatness and Humility — scans 202–203
-- Blossom 67 — The Truth Unknown to the Devotee — scans 204–206
-- Blossom 68 — Semantic Shift — scans 207–208
-- Blossom 69 — Only through Mind’s Perception — scans 209–210
-- Blossom 70 — The Eight Emotions — scans 211–212
-
-## Next batch
-
-Continue with **Blossoms 71–80**, scan pages **213–233**:
 
 - Blossom 71 — Manifest Emotions Explained Further — scans 213–214
 - Blossom 72 — Four Sources of Laughter — scans 215–217
@@ -47,6 +32,21 @@ Continue with **Blossoms 71–80**, scan pages **213–233**:
 - Blossom 78 — Four Sources of Anger — scan 229
 - Blossom 79 — Four Sources of Happiness — scans 230–231
 - Blossom 80 — Fivefold Akam Love: The First Stage of Physical Manifestations — scans 232–233
+
+## Next batch
+
+Continue with **Blossoms 81–90**, scan pages **234–253**:
+
+- Blossom 81 — Fivefold Akam Love: The Second Stage of Physical Manifestations — scans 234–235
+- Blossom 82 — Fivefold Akam Love: The Third Stage of Physical Manifestations — scans 236–237
+- Blossom 83 — Fivefold Akam Love: The Fourth Stage of Physical Manifestations — scans 238–239
+- Blossom 84 — Fivefold Akam Love: The Fifth Stage of Physical Manifestations — scans 240–242
+- Blossom 85 — Fivefold Akam Love: The Sixth Stage of Physical Manifestations — scans 243–244
+- Blossom 86 — Know Your Simile — scans 245–246
+- Blossom 87 — The Excellence of the Simile — scan 247
+- Blossom 88 — The Sources of Similitude — scans 248–249
+- Blossom 89 — Here is the Fifth Source — scans 250–251
+- Blossom 90 — The Crow and the Peacock — scans 252–253
 
 Every page must be compared directly with the scan before its Markdown file is marked `verified`.
 
