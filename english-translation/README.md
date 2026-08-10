@@ -41,12 +41,12 @@ Every page records its scan number and verification status. A text page is marke
 ## Progress
 
 - Source PDF: **281 scans**
-- Verified transcription: **scans 1–190**
+- Verified transcription: **scans 1–212**
 - Front matter through the Transliteration Key: **complete**
 - Complete contents index: **100 Blossoms**
-- Body transcription: **Blossoms 1–60 complete**
-- Blossoms transcribed: **60 / 100**
-- Next source page: **scan 191**
-- Next section: **Blossom 61 — Without the Fox Getting Drenched...!**
+- Body transcription: **Blossoms 1–70 complete**
+- Blossoms transcribed: **70 / 100**
+- Next source page: **scan 213**
+- Next section: **Blossom 71 — Manifest Emotions Explained Further**
 
 See [`PROGRESS.md`](PROGRESS.md) for the canonical continuation point.
