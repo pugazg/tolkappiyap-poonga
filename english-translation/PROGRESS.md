@@ -10,32 +10,17 @@
 
 ## Current state
 
-- Scan pages **1–54**: transcribed and visually verified.
+- Scan pages **1–78**: transcribed and visually verified.
 - Complete five-page printed contents index: captured.
 - 100 blossom titles and printed starting pages: indexed.
 - Introduction: scans **16–20**, verified.
 - Preface: scans **22–25**, verified.
 - “Verses of Tolkāppiyam Explicated and/or Illustrated”: scans **26–29**, verified.
 - Transliteration Key: scan **30**, verified.
-- Body transcription: **Blossoms 1–10**, scans **31–54**, verified.
-- Blossoms completed: **10 / 100**.
+- Body transcription: **Blossoms 1–20**, scans **31–78**, verified.
+- Blossoms completed: **20 / 100**.
 
 ## Completed body batch
-
-- Blossom 1 — Letters of the Alphabet — scans 31–33
-- Blossom 2 — Vowels and Consonants — scans 34–35
-- Blossom 3 — Consonant-vowels — scans 36–37
-- Blossom 4 — Medicine, Tablet — scans 38–40
-- Blossom 5 — Ethnic Unity — scans 41–42
-- Blossom 6 — Production of Speech Sounds - How Admirable! — scans 43–45
-- Blossom 7 — Intrusive Consonant — scans 46–47
-- Blossom 8 — Honour — scans 48–50
-- Blossom 9 — Cōḻaṉ — scans 51–52
-- Blossom 10 — Alliance of Letters — scans 53–54
-
-## Next batch
-
-Continue with **Blossoms 11–20**, scan pages **55–78**:
 
 - Blossom 11 — Grammatical Renunciation — scans 55–56
 - Blossom 12 — Word-picture — scans 57–58
@@ -47,6 +32,21 @@ Continue with **Blossoms 11–20**, scan pages **55–78**:
 - Blossom 18 — Mutal Poruḷ — scans 73–74
 - Blossom 19 — Land and Time — scans 75–76
 - Blossom 20 — Leadership Traits — scans 77–78
+
+## Next batch
+
+Continue with **Blossoms 21–30**, scan pages **79–103**:
+
+- Blossom 21 — Land and People: A Study in Excellence — scans 79–80
+- Blossom 22 — Reward for Objection — scans 81–83
+- Blossom 23 — Women and Palm Leaves — scans 84–85
+- Blossom 24 — A Simple Point in the Middle — scans 86–87
+- Blossom 25 — That is like a Mother! — scans 88–89
+- Blossom 26 — Great is the Aid of the Confidante — scans 90–91
+- Blossom 27 — Joy in Adversity — scans 92–95
+- Blossom 28 — The Call of Duty and the Predicament of the Hero — scans 96–98
+- Blossom 29 — A Virtuous Woman’s Lamentation — scans 99–100
+- Blossom 30 — The Heroine of the Agricultural Tract — scans 101–103
 
 Every page must be compared directly with the scan before its Markdown file is marked `verified`.
 

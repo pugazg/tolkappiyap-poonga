@@ -24,9 +24,19 @@ This relation is used only to plan batches. Every boundary must be confirmed vis
 8. [Blossom 8 — Honour](008-blossom-08-honour/README.md) — scans 48–50
 9. [Blossom 9 — Cōḻaṉ](009-blossom-09-colan/README.md) — scans 51–52
 10. [Blossom 10 — Alliance of Letters](010-blossom-10-alliance-of-letters/README.md) — scans 53–54
+11. [Blossom 11 — Grammatical Renunciation](011-blossom-11-grammatical-renunciation/README.md) — scans 55–56
+12. [Blossom 12 — Word-picture](012-blossom-12-word-picture/README.md) — scans 57–58
+13. [Blossom 13 — Commercial Competency](013-blossom-13-commercial-competency/README.md) — scans 59–61
+14. [Blossom 14 — My Son?](014-blossom-14-my-son/README.md) — scans 62–64
+15. [Blossom 15 — The Dream of a Eunuch](015-blossom-15-the-dream-of-a-eunuch/README.md) — scans 65–67
+16. [Blossom 16 — Female Son](016-blossom-16-female-son/README.md) — scans 68–70
+17. [Blossom 17 — Finished Cooking; I Have Come](017-blossom-17-finished-cooking-i-have-come/README.md) — scans 71–72
+18. [Blossom 18 — Mutal Poruḷ](018-blossom-18-mutal-porul/README.md) — scans 73–74
+19. [Blossom 19 — Land and Time](019-blossom-19-land-and-time/README.md) — scans 75–76
+20. [Blossom 20 — Leadership Traits](020-blossom-20-leadership-traits/README.md) — scans 77–78
 
 ## Status
 
-- Blossoms transcribed: **10 / 100**
-- Next blossom: **11 — Grammatical Renunciation**
-- Expected scans: **55–56**
+- Blossoms transcribed: **20 / 100**
+- Next blossom: **21 — Land and People: A Study in Excellence**
+- Expected scans: **79–80**
