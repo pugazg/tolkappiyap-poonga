@@ -39,9 +39,10 @@ Every page records its scan number and verification status. A text page is marke
 ## Progress
 
 - Source PDF: **281 scans**
-- Verified transcription: **scans 1–14**
+- Verified transcription: **scans 1–30**
+- Front matter through the Transliteration Key: **complete**
 - Complete contents index: **100 Blossoms**
-- Next source page: **scan 15**
+- Next source page: **scan 31**
 - First numbered text: **Blossom 1, scan 31 / printed page 1**
 
 See [`PROGRESS.md`](PROGRESS.md) for the canonical continuation point.
