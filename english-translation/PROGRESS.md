@@ -10,19 +10,17 @@
 
 ## Current state
 
-- Scan pages **1–30**: transcribed and visually verified.
+- Scan pages **1–54**: transcribed and visually verified.
 - Complete five-page printed contents index: captured.
 - 100 blossom titles and printed starting pages: indexed.
 - Introduction: scans **16–20**, verified.
 - Preface: scans **22–25**, verified.
 - “Verses of Tolkāppiyam Explicated and/or Illustrated”: scans **26–29**, verified.
 - Transliteration Key: scan **30**, verified.
-- Body transcription: not started.
-- First numbered blossom begins at scan **31** / printed page **1**.
+- Body transcription: **Blossoms 1–10**, scans **31–54**, verified.
+- Blossoms completed: **10 / 100**.
 
-## Next batch
-
-Continue with **Blossoms 1–10**, scan pages **31–54**:
+## Completed body batch
 
 - Blossom 1 — Letters of the Alphabet — scans 31–33
 - Blossom 2 — Vowels and Consonants — scans 34–35
@@ -34,6 +32,21 @@ Continue with **Blossoms 1–10**, scan pages **31–54**:
 - Blossom 8 — Honour — scans 48–50
 - Blossom 9 — Cōḻaṉ — scans 51–52
 - Blossom 10 — Alliance of Letters — scans 53–54
+
+## Next batch
+
+Continue with **Blossoms 11–20**, scan pages **55–78**:
+
+- Blossom 11 — Grammatical Renunciation — scans 55–56
+- Blossom 12 — Word-picture — scans 57–58
+- Blossom 13 — Commercial Competency — scans 59–61
+- Blossom 14 — My Son? — scans 62–64
+- Blossom 15 — The Dream of a Eunuch — scans 65–67
+- Blossom 16 — Female Son — scans 68–70
+- Blossom 17 — Finished Cooking; I Have Come — scans 71–72
+- Blossom 18 — Mutal Poruḷ — scans 73–74
+- Blossom 19 — Land and Time — scans 75–76
+- Blossom 20 — Leadership Traits — scans 77–78
 
 Every page must be compared directly with the scan before its Markdown file is marked `verified`.
 

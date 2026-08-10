@@ -23,7 +23,9 @@ english-translation/
 ├── contents/
 │   └── index.md
 ├── chapters/
-│   └── README.md
+│   ├── README.md
+│   ├── 001-blossom-01-letters-of-the-alphabet/
+│   └── ...
 └── pages/
     ├── 0001.md
     ├── 0002.md
@@ -39,10 +41,12 @@ Every page records its scan number and verification status. A text page is marke
 ## Progress
 
 - Source PDF: **281 scans**
-- Verified transcription: **scans 1–30**
+- Verified transcription: **scans 1–54**
 - Front matter through the Transliteration Key: **complete**
 - Complete contents index: **100 Blossoms**
-- Next source page: **scan 31**
-- First numbered text: **Blossom 1, scan 31 / printed page 1**
+- Body transcription: **Blossoms 1–10 complete**
+- Blossoms transcribed: **10 / 100**
+- Next source page: **scan 55**
+- Next section: **Blossom 11 — Grammatical Renunciation**
 
 See [`PROGRESS.md`](PROGRESS.md) for the canonical continuation point.
