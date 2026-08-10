@@ -74,9 +74,19 @@ This relation is used only to plan batches. Every boundary must be confirmed vis
 58. [Blossom 58 — Monologic Utterances](058-blossom-58-monologic-utterances/README.md) — scans 185–186
 59. [Blossom 59 — What did the Heart Say?](059-blossom-59-what-did-the-heart-say/README.md) — scans 187–188
 60. [Blossom 60 — The Greatness of Women](060-blossom-60-the-greatness-of-women/README.md) — scans 189–190
+61. [Blossom 61 — Without the Fox Getting Drenched...!](061-blossom-61-without-the-fox-getting-drenched/README.md) — scans 191–193
+62. [Blossom 62 — Do Speak, We would Listen...](062-blossom-62-do-speak-we-would-listen/README.md) — scans 194–196
+63. [Blossom 63 — Modesty Dear as Life](063-blossom-63-modesty-dear-as-life/README.md) — scans 197–198
+64. [Blossom 64 — Where is Happiness?](064-blossom-64-where-is-happiness/README.md) — scan 199
+65. [Blossom 65 — Would the Answer Emerge?](065-blossom-65-would-the-answer-emerge/README.md) — scans 200–201
+66. [Blossom 66 — Greatness and Humility](066-blossom-66-greatness-and-humility/README.md) — scans 202–203
+67. [Blossom 67 — The Truth Unknown to the Devotee](067-blossom-67-the-truth-unknown-to-the-devotee/README.md) — scans 204–206
+68. [Blossom 68 — Semantic Shift](068-blossom-68-semantic-shift/README.md) — scans 207–208
+69. [Blossom 69 — Only through Mind’s Perception](069-blossom-69-only-through-minds-perception/README.md) — scans 209–210
+70. [Blossom 70 — The Eight Emotions](070-blossom-70-the-eight-emotions/README.md) — scans 211–212
 
 ## Status
 
-- Blossoms transcribed: **60 / 100**
-- Next blossom: **61 — Without the Fox Getting Drenched...!**
-- Expected scans: **191–193**
+- Blossoms transcribed: **70 / 100**
+- Next blossom: **71 — Manifest Emotions Explained Further**
+- Expected scans: **213–214**

@@ -10,32 +10,17 @@
 
 ## Current state
 
-- Scan pages **1–190**: transcribed and visually verified.
+- Scan pages **1–212**: transcribed and visually verified.
 - Complete five-page printed contents index: captured.
 - 100 blossom titles and printed starting pages: indexed.
 - Introduction: scans **16–20**, verified.
 - Preface: scans **22–25**, verified.
 - “Verses of Tolkāppiyam Explicated and/or Illustrated”: scans **26–29**, verified.
 - Transliteration Key: scan **30**, verified.
-- Body transcription: **Blossoms 1–60**, scans **31–190**, verified.
-- Blossoms completed: **60 / 100**.
+- Body transcription: **Blossoms 1–70**, scans **31–212**, verified.
+- Blossoms completed: **70 / 100**.
 
 ## Completed body batch
-
-- Blossom 51 — Kumaraṉ’s Message — scans 172–174
-- Blossom 52 — A Woman’s Victory — scans 175–177
-- Blossom 53 — Tour — scan 178
-- Blossom 54 — The Warrior on the Field — scan 179
-- Blossom 55 — Women in War — scan 180
-- Blossom 56 — The Horse and the Bird would Stand Outsmarted! — scans 181–182
-- Blossom 57 — What is a Fortune? — scans 183–184
-- Blossom 58 — Monologic Utterances — scans 185–186
-- Blossom 59 — What did the Heart Say? — scans 187–188
-- Blossom 60 — The Greatness of Women — scans 189–190
-
-## Next batch
-
-Continue with **Blossoms 61–70**, scan pages **191–212**:
 
 - Blossom 61 — Without the Fox Getting Drenched...! — scans 191–193
 - Blossom 62 — Do Speak, We would Listen... — scans 194–196
@@ -47,6 +32,21 @@ Continue with **Blossoms 61–70**, scan pages **191–212**:
 - Blossom 68 — Semantic Shift — scans 207–208
 - Blossom 69 — Only through Mind’s Perception — scans 209–210
 - Blossom 70 — The Eight Emotions — scans 211–212
+
+## Next batch
+
+Continue with **Blossoms 71–80**, scan pages **213–233**:
+
+- Blossom 71 — Manifest Emotions Explained Further — scans 213–214
+- Blossom 72 — Four Sources of Laughter — scans 215–217
+- Blossom 73 — Four Sources of Grief — scans 218–220
+- Blossom 74 — Four Sources of Disgust — scans 221–222
+- Blossom 75 — Four Sources of Wonder — scans 223–224
+- Blossom 76 — Four Sources of Fear — scans 225–226
+- Blossom 77 — Four Sources of Pride — scans 227–228
+- Blossom 78 — Four Sources of Anger — scan 229
+- Blossom 79 — Four Sources of Happiness — scans 230–231
+- Blossom 80 — Fivefold Akam Love: The First Stage of Physical Manifestations — scans 232–233
 
 Every page must be compared directly with the scan before its Markdown file is marked `verified`.
 
