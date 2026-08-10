@@ -10,7 +10,7 @@ The numbered text begins with **Blossom 1** on scan page **31**, printed page **
 
 `scan page = printed page + 30`
 
-This relation is used only to plan batches. Every boundary must be confirmed visually against the source scan before a blossom is marked complete.
+This relation was used to plan batches. Every boundary has now been confirmed visually against the source scan. Blossom 100 ends on scan 279; scans 280–281 are closing back matter.
 
 ## Completed Blossoms
 
@@ -94,9 +94,30 @@ This relation is used only to plan batches. Every boundary must be confirmed vis
 78. [Blossom 78 — Four Sources of Anger](078-blossom-78-four-sources-of-anger/README.md) — scan 229
 79. [Blossom 79 — Four Sources of Happiness](079-blossom-79-four-sources-of-happiness/README.md) — scans 230–231
 80. [Blossom 80 — Fivefold Akam Love: The First Stage of Physical Manifestations](080-blossom-80-fivefold-akam-love-the-first-stage-of-physical-manifestations/README.md) — scans 232–233
+81. [Blossom 81 — Fivefold Akam Love: The Second Stage of Physical Manifestations](081-blossom-81-fivefold-akam-love-the-second-stage-of-physical-manifestations/README.md) — scans 234–235
+82. [Blossom 82 — Fivefold Akam Love: The Third Stage of Physical Manifestations](082-blossom-82-fivefold-akam-love-the-third-stage-of-physical-manifestations/README.md) — scans 236–237
+83. [Blossom 83 — Fivefold Akam Love: The Fourth Stage of Physical Manifestations](083-blossom-83-fivefold-akam-love-the-fourth-stage-of-physical-manifestations/README.md) — scans 238–239
+84. [Blossom 84 — Fivefold Akam Love: The Fifth Stage of Physical Manifestations](084-blossom-84-fivefold-akam-love-the-fifth-stage-of-physical-manifestations/README.md) — scans 240–242
+85. [Blossom 85 — Fivefold Akam Love: The Sixth Stage of Physical Manifestations](085-blossom-85-fivefold-akam-love-the-sixth-stage-of-physical-manifestations/README.md) — scans 243–244
+86. [Blossom 86 — Know Your Simile](086-blossom-86-know-your-simile/README.md) — scans 245–246
+87. [Blossom 87 — The Excellence of the Simile](087-blossom-87-the-excellence-of-the-simile/README.md) — scan 247
+88. [Blossom 88 — The Sources of Similitude](088-blossom-88-the-sources-of-similitude/README.md) — scans 248–249
+89. [Blossom 89 — Here is the Fifth Source](089-blossom-89-here-is-the-fifth-source/README.md) — scans 250–251
+90. [Blossom 90 — The Crow and the Peacock](090-blossom-90-the-crow-and-the-peacock/README.md) — scans 252–253
+91. [Blossom 91 — Metaphor or Simile?](091-blossom-91-metaphor-or-simile/README.md) — scans 254–255
+92. [Blossom 92 — The Explanation of Veḷḷaivāraṇar](092-blossom-92-the-explanation-of-vellaivaranar/README.md) — scans 256–257
+93. [Blossom 93 — Science that had Developed Then](093-blossom-93-science-that-had-developed-then/README.md) — scans 258–260
+94. [Blossom 94 — It Was in Vogue](094-blossom-94-it-was-in-vogue/README.md) — scans 261–262
+95. [Blossom 95 — The Cultural Programme and the Gift of Kaḷiru](095-blossom-95-the-cultural-programme-and-the-gift-of-kaliru/README.md) — scans 263–264
+96. [Blossom 96 — The Five Elements](096-blossom-96-the-five-elements/README.md) — scans 265–266
+97. [Blossom 97 — Those Who Realize will Know, Those Who Know will Realize](097-blossom-97-those-who-realize-will-know-those-who-know-will-realize/README.md) — scans 267–271
+98. [Blossom 98 — Primary and Secondary Works](098-blossom-98-primary-and-secondary-works/README.md) — scans 272–274
+99. [Blossom 99 — The Lamp on the Hill](099-blossom-99-the-lamp-on-the-hill/README.md) — scans 275–276
+100. [Blossom 100 — The Hundredth Blossom](100-blossom-100-the-hundredth-blossom/README.md) — scans 277–279
 
 ## Status
 
-- Blossoms transcribed: **80 / 100**
-- Next blossom: **81 — Fivefold Akam Love: The Second Stage of Physical Manifestations**
-- Expected scans: **234–235**
+- Blossoms transcribed: **100 / 100**
+- Body transcription: **complete through scan 279**
+- Closing back matter: **scans 280–281 verified**
+- Next blossom: **none**
