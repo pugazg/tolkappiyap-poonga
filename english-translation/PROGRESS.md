@@ -10,34 +10,19 @@
 
 ## Current state
 
-- Scan pages **1–171**: transcribed and visually verified.
+- Scan pages **1–190**: transcribed and visually verified.
 - Complete five-page printed contents index: captured.
 - 100 blossom titles and printed starting pages: indexed.
 - Introduction: scans **16–20**, verified.
 - Preface: scans **22–25**, verified.
 - “Verses of Tolkāppiyam Explicated and/or Illustrated”: scans **26–29**, verified.
 - Transliteration Key: scan **30**, verified.
-- Body transcription: **Blossoms 1–50**, scans **31–171**, verified.
-- Blossoms completed: **50 / 100**.
+- Body transcription: **Blossoms 1–60**, scans **31–190**, verified.
+- Blossoms completed: **60 / 100**.
 
 ## Completed body batch
 
-- Blossom 41 — That Angel - Who Is She? — scans 138–139
-- Blossom 42 — Speaking through the Eyes — scans 140–142
-- Blossom 43 — Overwhelmed by Love — scans 143–145
-- Blossom 44 — The Wet Firewood that Burned — scans 146–149
-- Blossom 45 — Shyness or Honour? — scans 150–152
-- Blossom 46 — Two Interpretations : An Explanation — scans 153–155
-- Blossom 47 — Wedded Love — scans 156–158
-- Blossom 48 — The Aiyar Conceived the Marriage — scans 159–162
-- Blossom 49 — Clandestine Love Career and Wedded Course — scans 163–167
-- Blossom 50 — The Light of Home — scans 168–171
-
-## Next batch
-
-Continue with **Blossoms 51–60**, scan pages **172–190**:
-
-- Blossom 51 — Kumaran’s Message — scans 172–174
+- Blossom 51 — Kumaraṉ’s Message — scans 172–174
 - Blossom 52 — A Woman’s Victory — scans 175–177
 - Blossom 53 — Tour — scan 178
 - Blossom 54 — The Warrior on the Field — scan 179
@@ -47,6 +32,21 @@ Continue with **Blossoms 51–60**, scan pages **172–190**:
 - Blossom 58 — Monologic Utterances — scans 185–186
 - Blossom 59 — What did the Heart Say? — scans 187–188
 - Blossom 60 — The Greatness of Women — scans 189–190
+
+## Next batch
+
+Continue with **Blossoms 61–70**, scan pages **191–212**:
+
+- Blossom 61 — Without the Fox Getting Drenched...! — scans 191–193
+- Blossom 62 — Do Speak, We would Listen... — scans 194–196
+- Blossom 63 — Modesty Dear as Life — scans 197–198
+- Blossom 64 — Where is Happiness? — scan 199
+- Blossom 65 — Would the Answer Emerge? — scans 200–201
+- Blossom 66 — Greatness and Humility — scans 202–203
+- Blossom 67 — The Truth Unknown to the Devotee — scans 204–206
+- Blossom 68 — Semantic Shift — scans 207–208
+- Blossom 69 — Only through Mind’s Perception — scans 209–210
+- Blossom 70 — The Eight Emotions — scans 211–212
 
 Every page must be compared directly with the scan before its Markdown file is marked `verified`.
 

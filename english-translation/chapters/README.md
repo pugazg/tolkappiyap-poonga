@@ -64,9 +64,19 @@ This relation is used only to plan batches. Every boundary must be confirmed vis
 48. [Blossom 48 — The Aiyar Conceived the Marriage](048-blossom-48-the-aiyar-conceived-the-marriage/README.md) — scans 159–162
 49. [Blossom 49 — Clandestine Love Career and Wedded Course](049-blossom-49-clandestine-love-career-and-wedded-course/README.md) — scans 163–167
 50. [Blossom 50 — The Light of Home](050-blossom-50-the-light-of-home/README.md) — scans 168–171
+51. [Blossom 51 — Kumaraṉ’s Message](051-blossom-51-kumaran-s-message/README.md) — scans 172–174
+52. [Blossom 52 — A Woman’s Victory](052-blossom-52-a-womans-victory/README.md) — scans 175–177
+53. [Blossom 53 — Tour](053-blossom-53-tour/README.md) — scan 178
+54. [Blossom 54 — The Warrior on the Field](054-blossom-54-the-warrior-on-the-field/README.md) — scan 179
+55. [Blossom 55 — Women in War](055-blossom-55-women-in-war/README.md) — scan 180
+56. [Blossom 56 — The Horse and the Bird would Stand Outsmarted!](056-blossom-56-the-horse-and-the-bird-would-stand-outsmarted/README.md) — scans 181–182
+57. [Blossom 57 — What is a Fortune?](057-blossom-57-what-is-a-fortune/README.md) — scans 183–184
+58. [Blossom 58 — Monologic Utterances](058-blossom-58-monologic-utterances/README.md) — scans 185–186
+59. [Blossom 59 — What did the Heart Say?](059-blossom-59-what-did-the-heart-say/README.md) — scans 187–188
+60. [Blossom 60 — The Greatness of Women](060-blossom-60-the-greatness-of-women/README.md) — scans 189–190
 
 ## Status
 
-- Blossoms transcribed: **50 / 100**
-- Next blossom: **51 — Kumaran’s Message**
-- Expected scans: **172–174**
+- Blossoms transcribed: **60 / 100**
+- Next blossom: **61 — Without the Fox Getting Drenched...!**
+- Expected scans: **191–193**
