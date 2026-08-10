@@ -54,9 +54,19 @@ This relation is used only to plan batches. Every boundary must be confirmed vis
 38. [Blossom 38 — The Light amidst the Darkness](038-blossom-38-the-light-amidst-the-darkness/README.md) — scans 127–129
 39. [Blossom 39 — Instability of Life and Things Worldly](039-blossom-39-instability-of-life-and-things-worldly/README.md) — scans 130–134
 40. [Blossom 40 — The Tamiḻ Concept of Love](040-blossom-40-the-tamil-concept-of-love/README.md) — scans 135–137
+41. [Blossom 41 — That Angel - Who Is She?](041-blossom-41-that-angel-who-is-she/README.md) — scans 138–139
+42. [Blossom 42 — Speaking through the Eyes](042-blossom-42-speaking-through-the-eyes/README.md) — scans 140–142
+43. [Blossom 43 — Overwhelmed by Love](043-blossom-43-overwhelmed-by-love/README.md) — scans 143–145
+44. [Blossom 44 — The Wet Firewood that Burned](044-blossom-44-the-wet-firewood-that-burned/README.md) — scans 146–149
+45. [Blossom 45 — Shyness or Honour?](045-blossom-45-shyness-or-honour/README.md) — scans 150–152
+46. [Blossom 46 — Two Interpretations : An Explanation](046-blossom-46-two-interpretations-an-explanation/README.md) — scans 153–155
+47. [Blossom 47 — Wedded Love](047-blossom-47-wedded-love/README.md) — scans 156–158
+48. [Blossom 48 — The Aiyar Conceived the Marriage](048-blossom-48-the-aiyar-conceived-the-marriage/README.md) — scans 159–162
+49. [Blossom 49 — Clandestine Love Career and Wedded Course](049-blossom-49-clandestine-love-career-and-wedded-course/README.md) — scans 163–167
+50. [Blossom 50 — The Light of Home](050-blossom-50-the-light-of-home/README.md) — scans 168–171
 
 ## Status
 
-- Blossoms transcribed: **40 / 100**
-- Next blossom: **41 — That Angel - Who Is She?**
-- Expected scans: **138–139**
+- Blossoms transcribed: **50 / 100**
+- Next blossom: **51 — Kumaran’s Message**
+- Expected scans: **172–174**
