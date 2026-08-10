@@ -10,32 +10,17 @@
 
 ## Current state
 
-- Scan pages **1–78**: transcribed and visually verified.
+- Scan pages **1–137**: transcribed and visually verified.
 - Complete five-page printed contents index: captured.
 - 100 blossom titles and printed starting pages: indexed.
 - Introduction: scans **16–20**, verified.
 - Preface: scans **22–25**, verified.
 - “Verses of Tolkāppiyam Explicated and/or Illustrated”: scans **26–29**, verified.
 - Transliteration Key: scan **30**, verified.
-- Body transcription: **Blossoms 1–20**, scans **31–78**, verified.
-- Blossoms completed: **20 / 100**.
+- Body transcription: **Blossoms 1–40**, scans **31–137**, verified.
+- Blossoms completed: **40 / 100**.
 
 ## Completed body batch
-
-- Blossom 11 — Grammatical Renunciation — scans 55–56
-- Blossom 12 — Word-picture — scans 57–58
-- Blossom 13 — Commercial Competency — scans 59–61
-- Blossom 14 — My Son? — scans 62–64
-- Blossom 15 — The Dream of a Eunuch — scans 65–67
-- Blossom 16 — Female Son — scans 68–70
-- Blossom 17 — Finished Cooking; I Have Come — scans 71–72
-- Blossom 18 — Mutal Poruḷ — scans 73–74
-- Blossom 19 — Land and Time — scans 75–76
-- Blossom 20 — Leadership Traits — scans 77–78
-
-## Next batch
-
-Continue with **Blossoms 21–30**, scan pages **79–103**:
 
 - Blossom 21 — Land and People: A Study in Excellence — scans 79–80
 - Blossom 22 — Reward for Objection — scans 81–83
@@ -47,6 +32,31 @@ Continue with **Blossoms 21–30**, scan pages **79–103**:
 - Blossom 28 — The Call of Duty and the Predicament of the Hero — scans 96–98
 - Blossom 29 — A Virtuous Woman’s Lamentation — scans 99–100
 - Blossom 30 — The Heroine of the Agricultural Tract — scans 101–103
+- Blossom 31 — Peruntiṇai — scans 104–105
+- Blossom 32 — Warriors who Protected Honour and Valour — scans 106–108
+- Blossom 33 — He Who has Turned a Hero-stone — scans 109–111
+- Blossom 34 — Outsmarting the Smartest — scans 112–114
+- Blossom 35 — That Golden Era — scans 115–117
+- Blossom 36 — Persistence in War like an Unyielding Buffalo — scans 118–121
+- Blossom 37 — The Concept of Victory — scans 122–126
+- Blossom 38 — The Light amidst the Darkness — scans 127–129
+- Blossom 39 — Instability of Life and Things Worldly — scans 130–134
+- Blossom 40 — The Tamiḻ Concept of Love — scans 135–137
+
+## Next batch
+
+Continue with **Blossoms 41–50**, scan pages **138–171**:
+
+- Blossom 41 — That Angel - Who Is She? — scans 138–139
+- Blossom 42 — Speaking through the Eyes — scans 140–142
+- Blossom 43 — Overwhelmed by Love — scans 143–145
+- Blossom 44 — The Wet Firewood that Burned — scans 146–149
+- Blossom 45 — Shyness or Honour? — scans 150–152
+- Blossom 46 — Two Interpretations : An Explanation — scans 153–155
+- Blossom 47 — Wedded Love — scans 156–158
+- Blossom 48 — The Aiyar Conceived the Marriage — scans 159–162
+- Blossom 49 — Clandestine Love Career and Wedded Course — scans 163–167
+- Blossom 50 — The Light of Home — scans 168–171
 
 Every page must be compared directly with the scan before its Markdown file is marked `verified`.
 
