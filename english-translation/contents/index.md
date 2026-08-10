@@ -13,7 +13,7 @@ Source: *The Flower-garden of Tolkāppiyam*, translated by G. Thiruvasagam.
 
 ## Blossoms
 
-| Blossom | Title | Printed start | Scan start | Expected printed end | Expected scan end |
+| Blossom | Title | Printed start | Scan start | Printed end | Scan end |
 |---:|---|---:|---:|---:|---:|
 | 1 | Letters of the Alphabet | 1 | 31 | 3 | 33 |
 | 2 | Vowels and Consonants | 4 | 34 | 5 | 35 |
@@ -114,6 +114,6 @@ Source: *The Flower-garden of Tolkāppiyam*, translated by G. Thiruvasagam.
 | 97 | Those Who Realize will Know, Those Who Know will Realize | 237 | 267 | 241 | 271 |
 | 98 | Primary and Secondary Works | 242 | 272 | 244 | 274 |
 | 99 | The Lamp on the Hill | 245 | 275 | 246 | 276 |
-| 100 | The Hundredth Blossom | 247 | 277 | 251 | 281 |
+| 100 | The Hundredth Blossom | 247 | 277 | 249 | 279 |
 
-> Scan starts/ends are mapped from the printed pagination (`scan = printed + 30`) established at the beginning of the numbered text. They are structural planning metadata and will be confirmed against the source as each blossom is transcribed.
+> Scan starts/ends were initially mapped from the printed pagination (`scan = printed + 30`) established at the beginning of the numbered text. All Blossom boundaries are now visually confirmed against the source scan. Blossom 100 ends at scan 279 / printed page 249; scan 280 is “About the Project Makers” and scan 281 is the back cover.

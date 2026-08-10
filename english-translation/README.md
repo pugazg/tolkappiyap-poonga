@@ -41,12 +41,14 @@ Every page records its scan number and verification status. A text page is marke
 ## Progress
 
 - Source PDF: **281 scans**
-- Verified transcription: **scans 1–233**
+- Verified transcription: **scans 1–281**
 - Front matter through the Transliteration Key: **complete**
 - Complete contents index: **100 Blossoms**
-- Body transcription: **Blossoms 1–80 complete**
-- Blossoms transcribed: **80 / 100**
-- Next source page: **scan 234**
-- Next section: **Blossom 81 — Fivefold Akam Love: The Second Stage of Physical Manifestations**
+- Body transcription: **Blossoms 1–100 complete**
+- Body scan range: **31–279**
+- Closing back matter: **scans 280–281 complete**
+- Blossoms transcribed: **100 / 100**
+- Source transcription: **complete**
+- Next source page: **none**
 
-See [`PROGRESS.md`](PROGRESS.md) for the canonical continuation point.
+See [`PROGRESS.md`](PROGRESS.md) for the final source-boundary record.
