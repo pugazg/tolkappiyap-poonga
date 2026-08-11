@@ -5,9 +5,8 @@ This tracker records a second-pass, source-faithful comparison of the English tr
 ## Method
 
 - Audit the 100 numbered Blossoms in **20-Blossom iterations**.
-- Run a page-by-page second-pass comparison across every source scan and its Markdown transcription.
-- Use OCR only for discrepancy triage; it is never accepted as source authority.
-- Inspect the source scan directly for every discrepancy candidate or ambiguous form before changing the transcription.
+- Compare every page in each iteration directly with the source scan.
+- Use OCR only as a discrepancy-navigation aid; it is not accepted as source authority.
 - Correct only discrepancies between the Markdown transcription and the printed scan.
 - Preserve source mistakes, inconsistencies and unusual punctuation when the scan confirms them.
 
@@ -15,52 +14,28 @@ This tracker records a second-pass, source-faithful comparison of the English tr
 
 | Iteration | Blossoms | Scan range | Status | Page files corrected |
 |---:|---:|---:|---|---:|
-| 1 | 1–20 | 31–78 | **complete** | 9 |
-| 2 | 21–40 | 79–137 | **complete** | 22 |
-| 3 | 41–60 | 138–190 | **complete** | 9 |
-| 4 | 61–80 | 191–233 | **complete** | 0 |
-| 5 | 81–100 | 234–279 | **complete** | 0 |
+| 1 | 1–20 | 31–78 | **complete** | 8 |
+| 2 | 21–40 | 79–137 | **complete** | 13 |
+| 3 | 41–60 | 138–190 | pending | — |
+| 4 | 61–80 | 191–233 | pending | — |
+| 5 | 81–100 | 234–279 | pending | — |
 
-## Non-Blossom source scans
-
-| Section | Scan range | Status | Page files corrected |
-|---|---:|---|---:|
-| Front matter | 1–30 | **complete** | 0 |
-| Closing back matter | 280–281 | **complete** | 0 |
+After the five body iterations, the non-Blossom front matter (scans 1–30) and closing back matter (scans 280–281) will receive the same second-pass fidelity check so that all 281 scans are covered.
 
 ## Iteration 1 — Blossoms 1–20
 
-Second-pass comparison completed for **scans 31–78**. Corrections were required on scans **38, 41, 42, 47, 49, 51, 65, 69 and 71**. The final whole-source sweep identified scan 38 as one additional punctuation correction beyond the initial iteration record.
+Direct visual comparison completed for **scans 31–78**. Corrections were required on scans **41, 42, 47, 49, 51, 65, 69 and 71**. All other pages in the range matched the source closely enough to require no text change.
 
-The corrections restore source-specific hyphen/dash notation, arrow notation, anomalous quote punctuation, exact wording, transliteration/spelling, punctuation/spacing, and title-page capitalization. No published-English grammar or wording was modernized.
+The corrections restore source-specific arrow notation, anomalous quote punctuation, exact wording, transliteration/spelling, punctuation/spacing and title-page capitalization. No published-English grammar or wording was modernized.
 
 ## Iteration 2 — Blossoms 21–40
 
-Second-pass comparison completed for **scans 79–137**. Corrections were required on scans **79, 81, 82, 83, 85, 86, 92, 93, 96, 97, 101, 115, 116, 122, 123, 124, 126, 127, 133, 135, 136 and 137**.
+Direct visual comparison completed for **scans 79–137**. Genuine transcription corrections were required on scans **85, 86, 92, 93, 96, 97, 101, 118, 124, 133, 135, 136 and 137**. All other source pages in this 20-Blossom range were checked directly.
 
-Most changes restore the edition’s exact use of *Tamil* versus transliterated *Tamiḻ*, together with source punctuation, spelling and spacing. Scans **85, 96 and 97** required substantive restoration where the Markdown had drifted into paraphrase rather than reproducing the printed English.
+The most substantial restorations are on **scans 85, 96 and 97**, where the earlier Markdown had drifted into paraphrase rather than reproducing the printed English. Other corrections preserve source punctuation and spacing, the printed typo **“presons”**, and the edition’s exact transliteration **Tamiḻ / Tamiḻs** where the scan carries the final `ḻ` diacritic.
 
-## Iteration 3 — Blossoms 41–60
+During this iteration, source-exact **Tamiḻ** forms were also restored on affected pages where an intervening repository update had normalized them to plain **Tamil**. Those restorations return the transcription to the scan rather than editorially standardizing the edition.
 
-Second-pass comparison completed for **scans 138–190**. Corrections were required on scans **141, 142, 143, 154, 155, 158, 162, 178 and 179**. These restore printed spelling/transliteration choices such as *Tamil*, *Tamils* and *Amman* where the source does not carry the diacritics used in the earlier transcription.
+## Next
 
-## Iteration 4 — Blossoms 61–80
-
-Second-pass comparison completed for **scans 191–233**. **No page-level text corrections were required.** Apparent irregularities in the published English were retained when the scan confirmed them.
-
-## Iteration 5 — Blossoms 81–100
-
-Second-pass comparison completed for **scans 234–279**. **No page-level text corrections were required.** OCR-only discrepancy candidates were rejected when direct scan inspection confirmed the existing transcription; for example, scan 268 prints **1969**, and scan 279 prints plain **Tamil culture**.
-
-## Front and closing matter
-
-Scans **1–30** and **280–281** received the same second-pass comparison. **No corrections were required.** The final source boundary remains: Blossom 100 ends at scan 279 / printed page 249; scan 280 is “About the Project Makers” and scan 281 is the back cover.
-
-## Final result
-
-- Source scans audited: **281 / 281**
-- Blossoms audited: **100 / 100**
-- Page files corrected across the full second pass: **40**
-- Remaining unaudited source pages: **0**
-
-**Full text-fidelity audit complete.**
+Continue with **Iteration 3 — Blossoms 41–60, scans 138–190**.
