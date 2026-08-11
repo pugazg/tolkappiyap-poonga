@@ -20,7 +20,14 @@ This tracker records a second-pass, source-faithful comparison of the English tr
 | 4 | 61–80 | 191–233 | **complete** | 0 |
 | 5 | 81–100 | 234–279 | **complete** | 1 |
 
-After the five body iterations, the non-Blossom front matter (scans 1–30) and closing back matter (scans 280–281) receive the same second-pass fidelity check so that all 281 scans are covered.
+## Non-Blossom coverage
+
+| Coverage | Scan range | Status | Page files corrected |
+|---|---:|---|---:|
+| Front matter | 1–30 | **complete** | 0 |
+| Closing back matter | 280–281 | **complete** | 0 |
+
+The second-pass fidelity sweep now covers **all 281 scans**.
 
 ## Iteration 1 — Blossoms 1–20
 
@@ -60,6 +67,22 @@ The source scan clearly prints the sentence ending **“broadcast on the All Ind
 
 All other pages in the range matched the existing verified transcription on reinspection. Source-specific forms were deliberately retained, including the edition’s exact transliteration in the simile and *Marapiyal* sections and plain **Tamil culture** on scan 279. No OCR was needed for this iteration.
 
-## Next
+## Front matter — scans 1–30
 
-The numbered body audit is now **complete: 100 / 100 Blossoms, scans 31–279**. Continue with the non-Blossom second pass: **front matter scans 1–30**, then **closing back matter scans 280–281**.
+Direct visual comparison completed for **all 30 front-matter scans**. **No page-level text corrections were required.**
+
+The pass covered the front cover, author portrait, title and publication pages, Foreword, Vice Chancellor’s Note, Prologue, the complete five-page Contents section, Introduction, Preface, the four-page “Verses of Tolkāppiyam Explicated and/or Illustrated” tables, and the Transliteration Key. Blank scans **3, 9, 15 and 21** were also revalidated as blank page records.
+
+The existing transcription preserves the source’s wording, capitalization, punctuation, table values and transliteration forms throughout this range. No OCR was needed for this pass.
+
+## Closing back matter — scans 280–281
+
+Direct visual comparison completed for **both closing scans**. **No page-level text corrections were required.**
+
+Scan 280, “About the Project Makers,” and scan 281, the back cover, both matched the existing transcription. Source irregularities on the back cover — including **“more than seven decade standing”** and **“proform designation”** — remain preserved exactly as printed.
+
+## Final status
+
+The second-pass text-fidelity audit is **complete for all 281 / 281 scans**: front matter **1–30**, numbered body **31–279**, and closing back matter **280–281**.
+
+Across the numbered body, **22 page files** required correction during the five iterations (**8 + 13 + 0 + 0 + 1**). The front and closing matter required **0** additional page-level corrections. There is no remaining scan awaiting the formal second-pass fidelity check.
