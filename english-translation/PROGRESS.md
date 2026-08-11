@@ -21,8 +21,8 @@
 - Closing back matter: **scan 280 — About the Project Makers; scan 281 — back cover**, verified.
 - Blossoms completed: **100 / 100**.
 - Source transcription: **complete**.
-- Second-pass text fidelity audit: **Blossoms 1–80 complete**.
-- Next fidelity iteration: **Blossoms 81–100, scans 234–279**.
+- Second-pass text fidelity audit: **Blossoms 1–100 complete**.
+- Next fidelity check: **front matter scans 1–30**, then **closing back matter scans 280–281**.
 
 ## Completed final body batch
 
@@ -62,7 +62,7 @@ See the dedicated [`back-matter/README.md`](back-matter/README.md) record.
 
 ## Second-pass text fidelity audit
 
-The body is being rechecked in **20-Blossom iterations** against the source scan. Iteration 1 (Blossoms 1–20 / scans 31–78), Iteration 2 (Blossoms 21–40 / scans 79–137), Iteration 3 (Blossoms 41–60 / scans 138–190), and Iteration 4 (Blossoms 61–80 / scans 191–233) are complete. The next iteration is **Blossoms 81–100 / scans 234–279**.
+The numbered body was rechecked in **20-Blossom iterations** against the source scan. All five iterations are now complete: Blossoms 1–20 / scans 31–78, Blossoms 21–40 / scans 79–137, Blossoms 41–60 / scans 138–190, Blossoms 61–80 / scans 191–233, and Blossoms 81–100 / scans 234–279.
 
 Iteration 2 required genuine transcription corrections on scans **85, 86, 92, 93, 96, 97, 101, 118, 124, 133, 135, 136 and 137**. The largest restorations were on scans **85, 96 and 97**, where earlier Markdown had drifted into paraphrase. Source-exact **Tamiḻ / Tamiḻs** forms were retained wherever the scan prints the final `ḻ` diacritic.
 
@@ -70,11 +70,13 @@ Iteration 3 required **no new page-level corrections**. All **53 scans from 138�
 
 Iteration 4 also required **no new page-level corrections**. All **43 scans from 191–233** were directly reinspected. Source-specific irregularities such as scan 192’s **“tenth mouth”**, scan 203’s mixed **Rāvaṇa / Rāvaṇaṉ** forms, and plain **Kannadasan** on scan 208 were confirmed and preserved exactly as printed.
 
+Iteration 5 required **one page-level correction**. All **46 scans from 234–279** were directly reinspected. On scan **268 / printed page 238**, the source clearly prints **1967** in the sentence about the ‘Freedom Fighters’ broadcast on All India Radio, Tiruchi; the Markdown had **1969** and has been corrected to **1967**. All other pages in the iteration matched the source on reinspection, including plain **Tamil culture** on scan 279.
+
 See [`FIDELITY.md`](FIDELITY.md) for the audit record.
 
 ## Status
 
-**Source transcription complete. Fidelity audit in progress through Blossom 80.**
+**Source transcription complete. Numbered-body fidelity audit complete through Blossom 100. Front and closing matter remain for the formal second-pass fidelity sweep.**
 
 ## Rules
 
