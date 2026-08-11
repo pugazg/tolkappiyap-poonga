@@ -16,7 +16,7 @@ This tracker records a second-pass, source-faithful comparison of the English tr
 |---:|---:|---:|---|---:|
 | 1 | 1–20 | 31–78 | **complete** | 8 |
 | 2 | 21–40 | 79–137 | **complete** | 13 |
-| 3 | 41–60 | 138–190 | pending | — |
+| 3 | 41–60 | 138–190 | **complete** | 0 |
 | 4 | 61–80 | 191–233 | pending | — |
 | 5 | 81–100 | 234–279 | pending | — |
 
@@ -36,6 +36,14 @@ The most substantial restorations are on **scans 85, 96 and 97**, where the earl
 
 During this iteration, source-exact **Tamiḻ** forms were also restored on affected pages where an intervening repository update had normalized them to plain **Tamil**. Those restorations return the transcription to the scan rather than editorially standardizing the edition.
 
+## Iteration 3 — Blossoms 41–60
+
+Direct visual comparison completed for **all scans 138–190**. **No new page-level text corrections were required in this iteration.**
+
+Nine pages — scans **141, 142, 143, 154, 155, 158, 162, 178 and 179** — already contained source-exact restorations from an earlier repository update. This pass revalidated those forms directly against the scans. In particular, the edition prints plain **Tamil / Tamils** on scans 141, 142, 154, 155, 158, 162, 178 and 179, and plain **Amman** on scan 143; those forms are therefore retained without adding diacritics.
+
+All other pages in the range matched the existing verified transcription on reinspection. Apparent irregularities in wording, grammar and punctuation were preserved whenever the scan confirmed them. No OCR was needed for this iteration.
+
 ## Next
 
-Continue with **Iteration 3 — Blossoms 41–60, scans 138–190**.
+Continue with **Iteration 4 — Blossoms 61–80, scans 191–233**.
