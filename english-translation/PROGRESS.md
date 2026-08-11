@@ -49,6 +49,15 @@
 
 The initial contents map treated the end of Blossom 100 as scan 281 by extending the working `scan = printed + 30` relation. Direct visual comparison confirms that **Blossom 100 ends on scan 279 / printed page 249**. **Scan 280 is “About the Project Makers” and scan 281 is the back cover.** Both are preserved as separate verified page records.
 
+## Closing back matter
+
+The two closing scans were rechecked directly against the source after completion of the body transcription. No corrections were required to the existing page-level transcriptions.
+
+1. [Scan 280 — About the Project Makers](pages/0280.md) — text page — `verified`
+2. [Scan 281 — Back cover](pages/0281.md) — cover — `verified`
+
+See the dedicated [`back-matter/README.md`](back-matter/README.md) record.
+
 ## Status
 
 **Complete.** There is no remaining untranscribed scan page in the 281-page source PDF.
