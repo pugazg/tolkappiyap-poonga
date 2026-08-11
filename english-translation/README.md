@@ -26,6 +26,8 @@ english-translation/
 │   ├── README.md
 │   ├── 001-blossom-01-letters-of-the-alphabet/
 │   └── ...
+├── back-matter/
+│   └── README.md
 └── pages/
     ├── 0001.md
     ├── 0002.md
@@ -47,6 +49,7 @@ Every page records its scan number and verification status. A text page is marke
 - Body transcription: **Blossoms 1–100 complete**
 - Body scan range: **31–279**
 - Closing back matter: **scans 280–281 complete**
+- Closing back-matter index: [`back-matter/README.md`](back-matter/README.md)
 - Blossoms transcribed: **100 / 100**
 - Source transcription: **complete**
 - Next source page: **none**
