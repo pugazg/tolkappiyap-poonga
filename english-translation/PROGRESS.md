@@ -21,8 +21,8 @@
 - Closing back matter: **scan 280 — About the Project Makers; scan 281 — back cover**, verified.
 - Blossoms completed: **100 / 100**.
 - Source transcription: **complete**.
-- Second-pass text fidelity audit: **Blossoms 1–40 complete**.
-- Next fidelity iteration: **Blossoms 41–60, scans 138–190**.
+- Second-pass text fidelity audit: **Blossoms 1–60 complete**.
+- Next fidelity iteration: **Blossoms 61–80, scans 191–233**.
 
 ## Completed final body batch
 
@@ -62,15 +62,17 @@ See the dedicated [`back-matter/README.md`](back-matter/README.md) record.
 
 ## Second-pass text fidelity audit
 
-The body is being rechecked in **20-Blossom iterations** against the source scan. Iteration 1 (Blossoms 1–20 / scans 31–78) and Iteration 2 (Blossoms 21–40 / scans 79–137) are complete. The next iteration is **Blossoms 41–60 / scans 138–190**.
+The body is being rechecked in **20-Blossom iterations** against the source scan. Iteration 1 (Blossoms 1–20 / scans 31–78), Iteration 2 (Blossoms 21–40 / scans 79–137), and Iteration 3 (Blossoms 41–60 / scans 138–190) are complete. The next iteration is **Blossoms 61–80 / scans 191–233**.
 
 Iteration 2 required genuine transcription corrections on scans **85, 86, 92, 93, 96, 97, 101, 118, 124, 133, 135, 136 and 137**. The largest restorations were on scans **85, 96 and 97**, where earlier Markdown had drifted into paraphrase. Source-exact **Tamiḻ / Tamiḻs** forms were retained wherever the scan prints the final `ḻ` diacritic.
+
+Iteration 3 required **no new page-level corrections**. All **53 scans from 138–190** were directly reinspected. Nine pages — **141, 142, 143, 154, 155, 158, 162, 178 and 179** — already contained source-exact restorations from an earlier repository update and were revalidated against the scan. The source prints plain **Tamil / Tamils** on the relevant pages and plain **Amman** on scan 143, so those forms remain unchanged.
 
 See [`FIDELITY.md`](FIDELITY.md) for the audit record.
 
 ## Status
 
-**Source transcription complete. Fidelity audit in progress through Blossom 40.**
+**Source transcription complete. Fidelity audit in progress through Blossom 60.**
 
 ## Rules
 
