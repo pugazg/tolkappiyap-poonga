@@ -1,4 +1,4 @@
-# Blossom 40 — The Tamiḻ Concept of Love
+# Blossom 40 — The Tamil Concept of Love
 
 - Scan range: **135–137**
 - Printed pages: **105–107**
