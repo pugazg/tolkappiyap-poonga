@@ -21,6 +21,7 @@
 - Closing back matter: **scan 280 — About the Project Makers; scan 281 — back cover**, verified.
 - Blossoms completed: **100 / 100**.
 - Source transcription: **complete**.
+- Second-pass text fidelity audit: **281 / 281 scans complete**.
 
 ## Completed final body batch
 
@@ -58,9 +59,15 @@ The two closing scans were rechecked directly against the source after completio
 
 See the dedicated [`back-matter/README.md`](back-matter/README.md) record.
 
+## Full text-fidelity audit
+
+A second source-to-transcription fidelity pass has been completed across **all 281 scans**. OCR was used only for discrepancy triage; every applied correction was confirmed directly against the source scan. The audit corrected **40 page files** in total across the five body iterations, while front matter, Blossoms 61–100, and closing back matter required no text changes in the second pass.
+
+The corrections restore printed wording, punctuation, spacing, capitalization and transliteration without editorial normalization. The largest text restorations were on scans **85, 96 and 97**, where the earlier Markdown had drifted into paraphrase. See [`FIDELITY.md`](FIDELITY.md) for the complete audit record and corrected-scan lists.
+
 ## Status
 
-**Complete.** There is no remaining untranscribed scan page in the 281-page source PDF.
+**Complete.** There is no remaining untranscribed or unaudited scan page in the 281-page source PDF.
 
 ## Rules
 

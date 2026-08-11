@@ -53,7 +53,7 @@ Every page records its scan number and verification status. A text page is marke
 - Closing back-matter index: [`back-matter/README.md`](back-matter/README.md)
 - Blossoms transcribed: **100 / 100**
 - Source transcription: **complete**
-- Second-pass text fidelity audit: **Blossoms 1–20 complete** — see [`FIDELITY.md`](FIDELITY.md)
+- Second-pass text fidelity audit: **281 / 281 scans complete; 40 page files corrected** — see [`FIDELITY.md`](FIDELITY.md)
 - Next source page: **none**
 
 See [`PROGRESS.md`](PROGRESS.md) for the final source-boundary record.
