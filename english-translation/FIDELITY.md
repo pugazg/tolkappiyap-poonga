@@ -18,9 +18,9 @@ This tracker records a second-pass, source-faithful comparison of the English tr
 | 2 | 21–40 | 79–137 | **complete** | 13 |
 | 3 | 41–60 | 138–190 | **complete** | 0 |
 | 4 | 61–80 | 191–233 | **complete** | 0 |
-| 5 | 81–100 | 234–279 | pending | — |
+| 5 | 81–100 | 234–279 | **complete** | 1 |
 
-After the five body iterations, the non-Blossom front matter (scans 1–30) and closing back matter (scans 280–281) will receive the same second-pass fidelity check so that all 281 scans are covered.
+After the five body iterations, the non-Blossom front matter (scans 1–30) and closing back matter (scans 280–281) receive the same second-pass fidelity check so that all 281 scans are covered.
 
 ## Iteration 1 — Blossoms 1–20
 
@@ -52,6 +52,14 @@ The pass specifically revalidated source irregularities that could easily be “
 
 All remaining pages in the range matched the existing verified transcription on reinspection. No OCR was needed for this iteration.
 
+## Iteration 5 — Blossoms 81–100
+
+Direct visual comparison completed for **all scans 234–279**. **One page-level transcription correction was required: scan 268.**
+
+The source scan clearly prints the sentence ending **“broadcast on the All India Radio, Tiruchi, in the year 1967.”** The Markdown had **1969**; it has been corrected to the source-exact **1967**. This was a transcription discrepancy, not an editorial change.
+
+All other pages in the range matched the existing verified transcription on reinspection. Source-specific forms were deliberately retained, including the edition’s exact transliteration in the simile and *Marapiyal* sections and plain **Tamil culture** on scan 279. No OCR was needed for this iteration.
+
 ## Next
 
-Continue with **Iteration 5 — Blossoms 81–100, scans 234–279**.
+The numbered body audit is now **complete: 100 / 100 Blossoms, scans 31–279**. Continue with the non-Blossom second pass: **front matter scans 1–30**, then **closing back matter scans 280–281**.
