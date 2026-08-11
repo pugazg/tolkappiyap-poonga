@@ -21,8 +21,8 @@
 - Closing back matter: **scan 280 — About the Project Makers; scan 281 — back cover**, verified.
 - Blossoms completed: **100 / 100**.
 - Source transcription: **complete**.
-- Second-pass text fidelity audit: **Blossoms 1–100 complete**.
-- Next fidelity check: **front matter scans 1–30**, then **closing back matter scans 280–281**.
+- Second-pass text fidelity audit: **all scans 1–281 complete**.
+- Remaining fidelity pages: **none**.
 
 ## Completed final body batch
 
@@ -53,7 +53,7 @@ The initial contents map treated the end of Blossom 100 as scan 281 by extending
 
 ## Closing back matter
 
-The two closing scans were rechecked directly against the source after completion of the body transcription. No corrections were required to the existing page-level transcriptions.
+The two closing scans were rechecked directly against the source after completion of the body transcription and again in the final second-pass fidelity sweep. No corrections were required to the existing page-level transcriptions.
 
 1. [Scan 280 — About the Project Makers](pages/0280.md) — text page — `verified`
 2. [Scan 281 — Back cover](pages/0281.md) — cover — `verified`
@@ -62,7 +62,7 @@ See the dedicated [`back-matter/README.md`](back-matter/README.md) record.
 
 ## Second-pass text fidelity audit
 
-The numbered body was rechecked in **20-Blossom iterations** against the source scan. All five iterations are now complete: Blossoms 1–20 / scans 31–78, Blossoms 21–40 / scans 79–137, Blossoms 41–60 / scans 138–190, Blossoms 61–80 / scans 191–233, and Blossoms 81–100 / scans 234–279.
+The numbered body was rechecked in **20-Blossom iterations** against the source scan. All five iterations are complete: Blossoms 1–20 / scans 31–78, Blossoms 21–40 / scans 79–137, Blossoms 41–60 / scans 138–190, Blossoms 61–80 / scans 191–233, and Blossoms 81–100 / scans 234–279.
 
 Iteration 2 required genuine transcription corrections on scans **85, 86, 92, 93, 96, 97, 101, 118, 124, 133, 135, 136 and 137**. The largest restorations were on scans **85, 96 and 97**, where earlier Markdown had drifted into paraphrase. Source-exact **Tamiḻ / Tamiḻs** forms were retained wherever the scan prints the final `ḻ` diacritic.
 
@@ -72,11 +72,15 @@ Iteration 4 also required **no new page-level corrections**. All **43 scans from
 
 Iteration 5 required **one page-level correction**. All **46 scans from 234–279** were directly reinspected. On scan **268 / printed page 238**, the source clearly prints **1967** in the sentence about the ‘Freedom Fighters’ broadcast on All India Radio, Tiruchi; the Markdown had **1969** and has been corrected to **1967**. All other pages in the iteration matched the source on reinspection, including plain **Tamil culture** on scan 279.
 
-See [`FIDELITY.md`](FIDELITY.md) for the audit record.
+The final non-Blossom pass directly rechecked **all front-matter scans 1–30** and **closing scans 280–281**. No additional page-level text corrections were required. Blank scans **3, 9, 15 and 21**, the five Contents pages, the Introduction and Preface, the verse-index tables, the Transliteration Key, “About the Project Makers,” and the back cover were all revalidated against the source.
+
+Across the five body iterations, **22 page files** required correction in total (**8 + 13 + 0 + 0 + 1**). Front and closing matter required **0** additional corrections.
+
+See [`FIDELITY.md`](FIDELITY.md) for the complete audit record.
 
 ## Status
 
-**Source transcription complete. Numbered-body fidelity audit complete through Blossom 100. Front and closing matter remain for the formal second-pass fidelity sweep.**
+**Source transcription complete. Second-pass text-fidelity audit complete for all 281 / 281 scans.**
 
 ## Rules
 
