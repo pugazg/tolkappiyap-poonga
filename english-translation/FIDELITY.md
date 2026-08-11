@@ -17,7 +17,7 @@ This tracker records a second-pass, source-faithful comparison of the English tr
 | 1 | 1–20 | 31–78 | **complete** | 8 |
 | 2 | 21–40 | 79–137 | **complete** | 13 |
 | 3 | 41–60 | 138–190 | **complete** | 0 |
-| 4 | 61–80 | 191–233 | pending | — |
+| 4 | 61–80 | 191–233 | **complete** | 0 |
 | 5 | 81–100 | 234–279 | pending | — |
 
 After the five body iterations, the non-Blossom front matter (scans 1–30) and closing back matter (scans 280–281) will receive the same second-pass fidelity check so that all 281 scans are covered.
@@ -44,6 +44,14 @@ Nine pages — scans **141, 142, 143, 154, 155, 158, 162, 178 and 179** — alre
 
 All other pages in the range matched the existing verified transcription on reinspection. Apparent irregularities in wording, grammar and punctuation were preserved whenever the scan confirmed them. No OCR was needed for this iteration.
 
+## Iteration 4 — Blossoms 61–80
+
+Direct visual comparison completed for **all scans 191–233**. **No new page-level text corrections were required in this iteration.**
+
+The pass specifically revalidated source irregularities that could easily be “corrected” by accident: scan 192 prints **“A child would also be born in the tenth mouth.”**; scan 203 alternates **Rāvaṇaṉ / Rāvaṇa** and preserves its unusual quotation spacing; scan 208 prints plain **Kannadasan**; and the emotion chapters retain the edition’s printed spellings, punctuation and grammatical irregularities exactly as scanned.
+
+All remaining pages in the range matched the existing verified transcription on reinspection. No OCR was needed for this iteration.
+
 ## Next
 
-Continue with **Iteration 4 — Blossoms 61–80, scans 191–233**.
+Continue with **Iteration 5 — Blossoms 81–100, scans 234–279**.
